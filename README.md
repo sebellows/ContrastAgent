@@ -1,33 +1,27 @@
-# `Turborepo` Vite starter
+# Contrast Agent
 
-This is an official starter Turborepo.
+Web application to help compare and contrast the paint products of various brands popularly used in the hobby of miniature painting, including Citadel, Vallejo, Army Painter, and eventually others, such as Pro Acryl and Two Thin Coats.
 
-## Using this example
+> **NOTE:** This is a work in progress and not ready for primetime (like the majority of my non-work-related endeavors).
 
-Run the following command:
+### Materials
 
-```sh
-npx create-turbo@latest -e with-vite
-```
+This application is made possible using the following languages, libraries, and tools:
 
-## What's inside?
+#### Build System
 
-This Turborepo includes the following packages and apps:
+- [Turborepo](https://turbo.build/repo/docs)
 
-### Apps and Packages
+#### Frontend
 
-- `docs`: a vanilla [vite](https://vitejs.dev) ts app
-- `web`: another vanilla [vite](https://vitejs.dev) ts app
-- `@repo/ui`: a stub component & utility library shared by both `web` and `docs` applications
-- `@repo/eslint-config`: shared `eslint` configurations
-- `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
+- [Vue 3](https://vuejs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com)
 
-Each package and app is 100% [TypeScript](https://www.typescriptlang.org/).
+#### Backend
 
-### Utilities
-
-This Turborepo has some additional tools already setup for you:
-
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
+- [Python](https://www.python.org)
+- [FastAPI](https://fastapi.tiangolo.com)
+- [Pydantic](https://docs.pydantic.dev)
+- [SQLAlchemy](https://www.sqlalchemy.org)
+- [SQLite](https://www.sqlite.org)

@@ -6,10 +6,20 @@
       "inputs": ["$TURBO_DEFAULT$", ".env*"],
       "outputs": ["dist/**"]
     },
-    "lint": {},
+    "lint": {
+      "outputs": []
+    },
     "dev": {
       "cache": false,
       "persistent": true
-    }
+    },
+    "test": {},
+    "test:watch": {
+      "cache": false
+    },
+    "test:ci": {
+      "cache": false
+    },
+    "type-check": {}
   }
 }
