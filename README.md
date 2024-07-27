@@ -40,4 +40,5 @@ This application is made possible using the following languages, libraries, and 
 - [FastAPI](https://fastapi.tiangolo.com)
 - [Pydantic](https://docs.pydantic.dev)
 - [SQLAlchemy](https://www.sqlalchemy.org)
-- [SQLite](https://www.sqlite.org)
+- [PostgreSQL](https://www.postgresql.org)
+- [Supabase](https://supabase.com/)
