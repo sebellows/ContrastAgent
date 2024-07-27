@@ -1,0 +1,85 @@
+{
+  "regions": ["AL", "AS", "FL", "GA", "LA", "MS", "SC"],
+  "clients": [
+    {
+      "id": 1,
+      "first_name": "Garey",
+      "last_name": "Fenelon",
+      "email": "gfenelon0@bravesites.com",
+      "ip_address": "141.35.35.115",
+      "region": "LA"
+    },
+    {
+      "id": 2,
+      "first_name": "Audi",
+      "last_name": "Selkirk",
+      "email": "aselkirk1@hhs.gov",
+      "ip_address": "169.11.92.57",
+      "region": "SC"
+    },
+    {
+      "id": 3,
+      "first_name": "Winne",
+      "last_name": "Benninck",
+      "email": "wbenninck2@merriam-webster.com",
+      "ip_address": "48.247.55.131",
+      "region": "GA"
+    },
+    {
+      "id": 4,
+      "first_name": "Jon",
+      "last_name": "Rishworth",
+      "email": "jrishworth3@aboutads.info",
+      "ip_address": "180.36.224.54",
+      "region": "LA"
+    },
+    {
+      "id": 5,
+      "first_name": "Frederick",
+      "last_name": "Girardez",
+      "email": "fgirardez4@gnu.org",
+      "ip_address": "155.96.47.220",
+      "region": "SC"
+    },
+    {
+      "id": 6,
+      "first_name": "Darleen",
+      "last_name": "McGeown",
+      "email": "dmcgeown5@house.gov",
+      "ip_address": "52.177.75.24",
+      "region": "AL"
+    },
+    {
+      "id": 7,
+      "first_name": "Harvey",
+      "last_name": "Plumtree",
+      "email": "hplumtree6@oaic.gov.au",
+      "ip_address": "211.27.234.241",
+      "region": "GA"
+    },
+    {
+      "id": 8,
+      "first_name": "Nye",
+      "last_name": "Deabill",
+      "email": "ndeabill7@mayoclinic.com",
+      "ip_address": "111.82.82.197",
+      "region": "FL"
+    },
+    {
+      "id": 9,
+      "first_name": "Elberta",
+      "last_name": "Dadge",
+      "email": "edadge8@amazon.co.uk",
+      "ip_address": "102.236.140.44",
+      "region": "FL"
+    },
+    {
+      "id": 10,
+      "first_name": "Paxon",
+      "last_name": "Mathissen",
+      "email": "pmathissen9@microsoft.com",
+      "ip_address": "111.137.115.53",
+      "region": "FL"
+    }
+  ]
+}

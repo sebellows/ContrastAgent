@@ -1,0 +1,9 @@
+{
+  "extends": "@contrastagent/typescript-config/base.json",
+  "compilerOptions": {
+    "target": "ES2022",
+    "outDir": "dist",
+  },
+  "include": ["."],
+  "exclude": ["node_modules", "dist"],
+}

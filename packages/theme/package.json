@@ -1,0 +1,27 @@
+{
+  "name": "@contrastagent/theme",
+  "version": "0.0.0",
+  "license": "MIT",
+  "source": "src/index.ts",
+  "main": "dist/index.mjs",
+  "types": "dist/index.d.mts",
+  "files": [
+    "dist/**"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "type-check": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "tailwindcss": "*"
+  },
+  "devDependencies": {
+    "@contrastagent/eslint-config": "workspace:*",
+    "@contrastagent/typescript-config": "workspace:*",
+    "@contrastagent/utils": "workspace:*",
+    "tailwind": "^4.0.0",
+    "tsup": "^8.1.0",
+    "type-fest": "^4.21.0"
+  }
+}

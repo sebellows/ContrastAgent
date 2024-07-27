@@ -1,0 +1,11 @@
+{
+  "extends": "@contrastagent/typescript-config/base.json",
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "target": "ES2022",
+    "outDir": "./dist",
+    "noImplicitAny": false,
+  },
+  "include": ["."],
+  "exclude": ["dist", "build", "node_modules"]
+}

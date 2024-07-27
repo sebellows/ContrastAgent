@@ -1,4 +1,10 @@
 {
-  "extends": "@repo/typescript-config/vite.json",
-  "include": ["src"]
+  "extends": "@contrastagent/typescript-config/base.json",
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "target": "ES2022",
+    "noImplicitAny": false,
+  },
+  "include": ["."],
+  "exclude": ["node_modules"]
 }
