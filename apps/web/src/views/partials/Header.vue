@@ -2,8 +2,7 @@
   <header class="flex flex-col items-start mx-auto px-14 pb-5 bg-orange-500">
     <div class="flex items-start justify-between h-24 w-full">
       <div class="relative top-1/2 -translate-y-1/2 w-52" style="line-height: 0">
-        <h1 class="font-display text-4xl font-normal uppercase">Topcoat</h1>
-        <h2 class="text-md font-semibold">Research &amp; Compare Paints for Miniature Hobbyists</h2>
+        <h1 class="font-display text-4xl font-normal uppercase">Contrast Agent</h1>
       </div>
 
       <div class="flex items-center justify-end relative h-full flex-1 transition-transform ease-in-out duration-300">
@@ -32,6 +31,9 @@
           </div>
         </div>
       </div>
+    </div>
+    <div class="flex items-center justify-between h-14 w-full">
+      <h2 class="text-md font-semibold">Research &amp; Compare Paints for Miniature Hobbyists</h2>
     </div>
   </header>
 </template>
