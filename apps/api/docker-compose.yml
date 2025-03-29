@@ -1,0 +1,110 @@
+version: "3.9"
+
+services:
+  reverse-proxy:
+    image: nginx:latest
+    container_name: nginx_container
+    ports:
+      - 8000:8000
+    depends_on:
+      - postgres
+    volumes:
+      - ./packages/config/nginx.conf:/etc/nginx/nginx.conf
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+  postgres:
+    image: postgres:15-alpine
+    restart: always
+    environment:
+      DB_CONNECTION: /run/secrets/DB_CONNECTION
+      DB_ADAPTOR: /run/secrets/DB_ADAPTOR
+      DB_HOST: /run/secrets/DB_HOST
+      DB_PORT: /run/secrets/DB_PORT
+      DB_NAME: /run/secrets/DB_NAME
+      DB_USER: /run/secrets/DB_USER
+      DB_PASSWORD: /run/secrets/DB_PASSWORD
+    ports:
+      - 5432:5432
+    expose:
+      - "5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data:cached
+  test-postgres:
+    image: postgres:15-alpine
+    restart: always
+    environment:
+      POSTGRES_USER: test-user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: test_db
+    ports:
+      - 5434:5432 # Use a different port to avoid conflicts with the main database
+    expose:
+      - "5434" # Exposing the different port for clarity
+    volumes:
+      - test-db-data:/var/lib/postgresql/data:cached
+  app:
+    build:
+      context: app
+      dockerfile: Dockerfile
+      # target: production
+      secrets:
+        - DB_CONNECTION
+        - DB_ADAPTOR
+        - DB_HOST
+        - DB_PORT
+        - DB_NAME
+        - DB_PASSWORD
+        - DB_USERNAME
+        - DB_URL
+        - JWT_SECRET_KEY
+    # image: coloragent:1.0.0
+    command: python app/main.py
+    tty: true
+    volumes:
+        - ./app:/app/:cached
+        - ./.docker/.ipython:/root/.ipython:cached
+    depends_on:
+      - postgres
+    ports:
+      - "8000:8000"
+    secrets:
+      - DB_CONNECTION
+      - DB_ADAPTOR
+      - DB_HOST
+      - DB_PORT
+      - DB_NAME
+      - DB_PASSWORD
+      - DB_USERNAME
+      - JWT_SECRET_KEY
+    environment:
+      # Pass secrets as environment variables
+      DB_PASSWORD: /run/secrets/DB_PASSWORD
+      DB_USER: /run/secrets/DB_USER
+      DB_NAME: /run/secrets/DB_NAME
+      DB_HOST: /run/secrets/DB_HOST
+      DB_URL: /run/secrets/DB_URL
+      JWT_SECRET_KEY: /run/secrets/JWT_SECRET_KEY
+
+secrets:
+  DB_CONNECTION:
+    environment: "DB_CONNECTION"
+  DB_ADAPTOR:
+    environment: "DB_ADAPTOR"
+  DB_HOST:
+    environment: "DB_HOST"
+  DB_PORT:
+    environment: "DB_PORT"
+  DB_NAME:
+    environment: "DB_NAME"
+  DB_PASSWORD:
+    environment: "DB_PASSWORD"
+  DB_USERNAME:
+    environment: "DB_USERNAME"
+  DB_URL:
+    environment: "DB_URL"
+  JWT_SECRET_KEY:
+    environment: "JWT_SECRET_KEY"
+
+volumes:
+  db-data:
+  test-db-data:

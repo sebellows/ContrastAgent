@@ -1,0 +1,902 @@
+{
+  "AFGHANISTAN": {
+    "country_name": "AFGHANISTAN",
+    "country_code": "AF",
+    "currency_code": "AFN",
+    "currency_decimal_spaces": "2"
+  },
+  "ALBANIA": {
+    "country_name": "ALBANIA",
+    "country_code": "AL",
+    "currency_code": "ALL",
+    "currency_decimal_spaces": "2"
+  },
+  "ALGERIA": {
+    "country_name": "ALGERIA",
+    "country_code": "DZ",
+    "currency_code": "DZD",
+    "currency_decimal_spaces": "2"
+  },
+  "ANGOLA": {
+    "country_name": "ANGOLA",
+    "country_code": "AO",
+    "currency_code": "AOA",
+    "currency_decimal_spaces": "2"
+  },
+  "ARGENTINA": {
+    "country_name": "ARGENTINA",
+    "country_code": "AR",
+    "currency_code": "ARS",
+    "currency_decimal_spaces": "2"
+  },
+  "ARMENIA": {
+    "country_name": "ARMENIA",
+    "country_code": "AM",
+    "currency_code": "AMD",
+    "currency_decimal_spaces": "2"
+  },
+  "ARUBA": {
+    "country_name": "ARUBA",
+    "country_code": "AW",
+    "currency_code": "AWG",
+    "currency_decimal_spaces": "2"
+  },
+  "AUSTRALIA": {
+    "country_name": "AUSTRALIA",
+    "country_code": "AU",
+    "currency_code": "AUD",
+    "currency_decimal_spaces": "2"
+  },
+  "AZERBAIJAN": {
+    "country_name": "AZERBAIJAN",
+    "country_code": "AZ",
+    "currency_code": "AZN",
+    "currency_decimal_spaces": "2"
+  },
+  "BAHAMAS": {
+    "country_name": "BAHAMAS",
+    "country_code": "BS",
+    "currency_code": "BSD",
+    "currency_decimal_spaces": "2"
+  },
+  "BAHRAIN": {
+    "country_name": "BAHRAIN",
+    "country_code": "BH",
+    "currency_code": "BHD",
+    "currency_decimal_spaces": "3"
+  },
+  "BANGLADESH": {
+    "country_name": "BANGLADESH",
+    "country_code": "BD",
+    "currency_code": "BDT",
+    "currency_decimal_spaces": "2"
+  },
+  "BARBADOS": {
+    "country_name": "BARBADOS",
+    "country_code": "BB",
+    "currency_code": "BBD",
+    "currency_decimal_spaces": "2"
+  },
+  "BELARUS": {
+    "country_name": "BELARUS",
+    "country_code": "BY",
+    "currency_code": "BYN",
+    "currency_decimal_spaces": "2"
+  },
+  "BELIZE": {
+    "country_name": "BELIZE",
+    "country_code": "BZ",
+    "currency_code": "BZD",
+    "currency_decimal_spaces": "2"
+  },
+  "BERMUDA": {
+    "country_name": "BERMUDA",
+    "country_code": "BM",
+    "currency_code": "BMD",
+    "currency_decimal_spaces": "2"
+  },
+  "BHUTAN": {
+    "country_name": "BHUTAN",
+    "country_code": "BT",
+    "currency_code": "BTN",
+    "currency_decimal_spaces": "2"
+  },
+  "BOLIVIA": {
+    "country_name": "BOLIVIA",
+    "country_code": "BO",
+    "currency_code": "BOB",
+    "currency_decimal_spaces": "2"
+  },
+  "BOSNIA_AND_HERZEGOVINA": {
+    "country_name": "BOSNIA AND HERZEGOVINA",
+    "country_code": "BA",
+    "currency_code": "BAM",
+    "currency_decimal_spaces": "2"
+  },
+  "BOTSWANA": {
+    "country_name": "BOTSWANA",
+    "country_code": "BW",
+    "currency_code": "BWP",
+    "currency_decimal_spaces": "2"
+  },
+  "BRAZIL": {
+    "country_name": "BRAZIL",
+    "country_code": "BR",
+    "currency_code": "BRL",
+    "currency_decimal_spaces": "2"
+  },
+  "BRUNEI_DARUSSALAM": {
+    "country_name": "BRUNEI DARUSSALAM",
+    "country_code": "BN",
+    "currency_code": "BND",
+    "currency_decimal_spaces": "2"
+  },
+  "BULGARIA": {
+    "country_name": "BULGARIA",
+    "country_code": "BG",
+    "currency_code": "BGN",
+    "currency_decimal_spaces": "2"
+  },
+  "BURUNDI": {
+    "country_name": "BURUNDI",
+    "country_code": "BI",
+    "currency_code": "BIF",
+    "currency_decimal_spaces": "0"
+  },
+  "CAMBODIA": {
+    "country_name": "CAMBODIA",
+    "country_code": "KH",
+    "currency_code": "KHR",
+    "currency_decimal_spaces": "2"
+  },
+  "CANADA": {
+    "country_name": "CANADA",
+    "country_code": "CA",
+    "currency_code": "CAD",
+    "currency_decimal_spaces": "2"
+  },
+  "CAPE_VERDE": {
+    "country_name": "CAPE VERDE",
+    "country_code": "CV",
+    "currency_code": "CVE",
+    "currency_decimal_spaces": "2"
+  },
+  "CAYMAN_ISLANDS": {
+    "country_name": "CAYMAN ISLANDS",
+    "country_code": "KY",
+    "currency_code": "KYD",
+    "currency_decimal_spaces": "2"
+  },
+  "CHILE": {
+    "country_name": "CHILE",
+    "country_code": "CL",
+    "currency_code": "CLF",
+    "currency_decimal_spaces": "4"
+  },
+  "CHINA": {
+    "country_name": "CHINA",
+    "country_code": "CN",
+    "currency_code": "CNY",
+    "currency_decimal_spaces": "2"
+  },
+  "COLOMBIA": {
+    "country_name": "COLOMBIA",
+    "country_code": "CO",
+    "currency_code": "COP",
+    "currency_decimal_spaces": "2"
+  },
+  "COMOROS": {
+    "country_name": "COMOROS",
+    "country_code": "KM",
+    "currency_code": "KMF",
+    "currency_decimal_spaces": "0"
+  },
+  "CONGO": {
+    "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+    "country_code": "CD",
+    "currency_code": "CDF",
+    "currency_decimal_spaces": "2"
+  },
+  "COSTA_RICA": {
+    "country_name": "COSTA RICA",
+    "country_code": "CR",
+    "currency_code": "CRC",
+    "currency_decimal_spaces": "2"
+  },
+  "CUBA": {
+    "country_name": "CUBA",
+    "country_code": "CU",
+    "currency_code": "CUP",
+    "currency_decimal_spaces": "2"
+  },
+  "CZECH_REPUBLIC": {
+    "country_name": "CZECH REPUBLIC",
+    "country_code": "CZ",
+    "currency_code": "CZK",
+    "currency_decimal_spaces": "2"
+  },
+  "DENMARK": {
+    "country_name": "DENMARK",
+    "country_code": "DK",
+    "currency_code": "DKK",
+    "currency_decimal_spaces": "2"
+  },
+  "DJIBOUTI": {
+    "country_name": "DJIBOUTI",
+    "country_code": "DJ",
+    "currency_code": "DJF",
+    "currency_decimal_spaces": "0"
+  },
+  "DOMINICAN_REPUBLIC": {
+    "country_name": "DOMINICAN REPUBLIC",
+    "country_code": "DO",
+    "currency_code": "DOP",
+    "currency_decimal_spaces": "2"
+  },
+  "EGYPT": {
+    "country_name": "EGYPT",
+    "country_code": "EG",
+    "currency_code": "EGP",
+    "currency_decimal_spaces": "2"
+  },
+  "EL_SALVADOR": {
+    "country_name": "EL SALVADOR",
+    "country_code": "SV",
+    "currency_code": "SVC",
+    "currency_decimal_spaces": "2"
+  },
+  "ERITREA": {
+    "country_name": "ERITREA",
+    "country_code": "ER",
+    "currency_code": "ERN",
+    "currency_decimal_spaces": "2"
+  },
+  "ETHIOPIA": {
+    "country_name": "ETHIOPIA",
+    "country_code": "ET",
+    "currency_code": "ETB",
+    "currency_decimal_spaces": "2"
+  },
+  "FALKLAND_ISLANDS": {
+    "country_name": "FALKLAND ISLANDS (MALVINAS)",
+    "country_code": "FK",
+    "currency_code": "FKP",
+    "currency_decimal_spaces": "2"
+  },
+  "FIJI": {
+    "country_name": "FIJI",
+    "country_code": "FJ",
+    "currency_code": "FJD",
+    "currency_decimal_spaces": "2"
+  },
+  "GAMBIA": {
+    "country_name": "GAMBIA",
+    "country_code": "GM",
+    "currency_code": "GMD",
+    "currency_decimal_spaces": "2"
+  },
+  "GEORGIA": {
+    "country_name": "GEORGIA",
+    "country_code": "GE",
+    "currency_code": "GEL",
+    "currency_decimal_spaces": "2"
+  },
+  "GHANA": {
+    "country_name": "GHANA",
+    "country_code": "GH",
+    "currency_code": "GHS",
+    "currency_decimal_spaces": "2"
+  },
+  "GIBRALTAR": {
+    "country_name": "GIBRALTAR",
+    "country_code": "GI",
+    "currency_code": "GIP",
+    "currency_decimal_spaces": "2"
+  },
+  "GUATEMALA": {
+    "country_name": "GUATEMALA",
+    "country_code": "GT",
+    "currency_code": "GTQ",
+    "currency_decimal_spaces": "2"
+  },
+  "GUINEA": {
+    "country_name": "GUINEA",
+    "country_code": "GN",
+    "currency_code": "GNF",
+    "currency_decimal_spaces": "0"
+  },
+  "GUYANA": {
+    "country_name": "GUYANA",
+    "country_code": "GY",
+    "currency_code": "GYD",
+    "currency_decimal_spaces": "2"
+  },
+  "HAITI": {
+    "country_name": "HAITI",
+    "country_code": "HT",
+    "currency_code": "HTG",
+    "currency_decimal_spaces": "2"
+  },
+  "HONDURAS": {
+    "country_name": "HONDURAS",
+    "country_code": "HN",
+    "currency_code": "HNL",
+    "currency_decimal_spaces": "2"
+  },
+  "HONG_KONG": {
+    "country_name": "HONG KONG",
+    "country_code": "HK",
+    "currency_code": "HKD",
+    "currency_decimal_spaces": "2"
+  },
+  "HUNGARY": {
+    "country_name": "HUNGARY",
+    "country_code": "HU",
+    "currency_code": "HUF",
+    "currency_decimal_spaces": "2"
+  },
+  "ICELAND": {
+    "country_name": "ICELAND",
+    "country_code": "IS",
+    "currency_code": "ISK",
+    "currency_decimal_spaces": "0"
+  },
+  "INDIA": {
+    "country_name": "INDIA",
+    "country_code": "IN",
+    "currency_code": "INR",
+    "currency_decimal_spaces": "2"
+  },
+  "INDONESIA": {
+    "country_name": "INDONESIA",
+    "country_code": "ID",
+    "currency_code": "IDR",
+    "currency_decimal_spaces": "2"
+  },
+  "IRAN": {
+    "country_name": "IRAN, ISLAMIC REPUBLIC OF",
+    "country_code": "IR",
+    "currency_code": "IRR",
+    "currency_decimal_spaces": "2"
+  },
+  "IRAQ": {
+    "country_name": "IRAQ",
+    "country_code": "IQ",
+    "currency_code": "IQD",
+    "currency_decimal_spaces": "3"
+  },
+  "ISRAEL": {
+    "country_name": "ISRAEL",
+    "country_code": "IL",
+    "currency_code": "ILS",
+    "currency_decimal_spaces": "2"
+  },
+  "JAMAICA": {
+    "country_name": "JAMAICA",
+    "country_code": "JM",
+    "currency_code": "JMD",
+    "currency_decimal_spaces": "2"
+  },
+  "JAPAN": {
+    "country_name": "JAPAN",
+    "country_code": "JP",
+    "currency_code": "JPY",
+    "currency_decimal_spaces": "0"
+  },
+  "JORDAN": {
+    "country_name": "JORDAN",
+    "country_code": "JO",
+    "currency_code": "JOD",
+    "currency_decimal_spaces": "3"
+  },
+  "KAZAKHSTAN": {
+    "country_name": "KAZAKHSTAN",
+    "country_code": "KZ",
+    "currency_code": "KZT",
+    "currency_decimal_spaces": "2"
+  },
+  "KENYA": {
+    "country_name": "KENYA",
+    "country_code": "KE",
+    "currency_code": "KES",
+    "currency_decimal_spaces": "2"
+  },
+  "NORTH_KOREA": {
+    "country_name": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+    "country_code": "KP",
+    "currency_code": "KPW",
+    "currency_decimal_spaces": "2"
+  },
+  "SOUTH_KOREA": {
+    "country_name": "KOREA, REPUBLIC OF",
+    "country_code": "KR",
+    "currency_code": "KRW",
+    "currency_decimal_spaces": "0[e]"
+  },
+  "KUWAIT": {
+    "country_name": "KUWAIT",
+    "country_code": "KW",
+    "currency_code": "KWD",
+    "currency_decimal_spaces": "3"
+  },
+  "KYRGYZSTAN": {
+    "country_name": "KYRGYZSTAN",
+    "country_code": "KG",
+    "currency_code": "KGS",
+    "currency_decimal_spaces": "2"
+  },
+  "LAOS": {
+    "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC(LAOS)",
+    "country_code": "LA",
+    "currency_code": "LAK",
+    "currency_decimal_spaces": "2"
+  },
+  "LEBANON": {
+    "country_name": "LEBANON",
+    "country_code": "LB",
+    "currency_code": "LBP",
+    "currency_decimal_spaces": "2"
+  },
+  "LESOTHO": {
+    "country_name": "LESOTHO",
+    "country_code": "LS",
+    "currency_code": "LSL",
+    "currency_decimal_spaces": "2"
+  },
+  "LIBERIA": {
+    "country_name": "LIBERIA",
+    "country_code": "LR",
+    "currency_code": "LRD",
+    "currency_decimal_spaces": "2"
+  },
+  "LIBYA": {
+    "country_name": "LIBYA, STATE OF",
+    "country_code": "LY",
+    "currency_code": "LYD",
+    "currency_decimal_spaces": "3"
+  },
+  "MACAO": {
+    "country_name": "MACAO",
+    "country_code": "MO",
+    "currency_code": "MOP",
+    "currency_decimal_spaces": "2"
+  },
+  "MACEDONIA": {
+    "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+    "country_code": "MK",
+    "currency_code": "MKD",
+    "currency_decimal_spaces": "2"
+  },
+  "MADAGASCAR": {
+    "country_name": "MADAGASCAR",
+    "country_code": "MG",
+    "currency_code": "MGA",
+    "currency_decimal_spaces": "2[f]"
+  },
+  "MALAWI": {
+    "country_name": "MALAWI",
+    "country_code": "MW",
+    "currency_code": "MWK",
+    "currency_decimal_spaces": "2"
+  },
+  "MALAYSIA": {
+    "country_name": "MALAYSIA",
+    "country_code": "MY",
+    "currency_code": "MYR",
+    "currency_decimal_spaces": "2"
+  },
+  "MALDIVES": {
+    "country_name": "MALDIVES",
+    "country_code": "MV",
+    "currency_code": "MVR",
+    "currency_decimal_spaces": "2"
+  },
+  "MAURITANIA": {
+    "country_name": "MAURITANIA",
+    "country_code": "MR",
+    "currency_code": "MRU",
+    "currency_decimal_spaces": "2[f][10]"
+  },
+  "MAURITIUS": {
+    "country_name": "MAURITIUS",
+    "country_code": "MU",
+    "currency_code": "MUR",
+    "currency_decimal_spaces": "2"
+  },
+  "MEXICO": {
+    "country_name": "MEXICO",
+    "country_code": "MX",
+    "currency_code": "MXN",
+    "currency_decimal_spaces": "2"
+  },
+  "MOLDOVA": {
+    "country_name": "MOLDOVA, REPUBLIC OF",
+    "country_code": "MD",
+    "currency_code": "MDL",
+    "currency_decimal_spaces": "2"
+  },
+  "MONGOLIA": {
+    "country_name": "MONGOLIA",
+    "country_code": "MN",
+    "currency_code": "MNT",
+    "currency_decimal_spaces": "2"
+  },
+  "MOROCCO": {
+    "country_name": "MOROCCO",
+    "country_code": "MA",
+    "currency_code": "MAD",
+    "currency_decimal_spaces": "2"
+  },
+  "MOZAMBIQUE": {
+    "country_name": "MOZAMBIQUE",
+    "country_code": "MZ",
+    "currency_code": "MZN",
+    "currency_decimal_spaces": "2"
+  },
+  "MYANMAR": {
+    "country_name": "MYANMAR",
+    "country_code": "MM",
+    "currency_code": "MMK",
+    "currency_decimal_spaces": "2"
+  },
+  "NAMIBIA": {
+    "country_name": "NAMIBIA",
+    "country_code": "NA",
+    "currency_code": "NAD",
+    "currency_decimal_spaces": "2"
+  },
+  "NEPAL": {
+    "country_name": "NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",
+    "country_code": "NP",
+    "currency_code": "NPR",
+    "currency_decimal_spaces": "2"
+  },
+  "NETHERLANDS_ANTILLES": {
+    "country_name": "NETHERLANDS ANTILLES",
+    "country_code": "AN",
+    "currency_code": "ANG",
+    "currency_decimal_spaces": "2"
+  },
+  "NEW_ZEALAND": {
+    "country_name": "NEW ZEALAND",
+    "country_code": "NZ",
+    "currency_code": "NZD",
+    "currency_decimal_spaces": "2"
+  },
+  "NICARAGUA": {
+    "country_name": "NICARAGUA",
+    "country_code": "NI",
+    "currency_code": "NIO",
+    "currency_decimal_spaces": "2"
+  },
+  "NIGERIA": {
+    "country_name": "NIGERIA",
+    "country_code": "NG",
+    "currency_code": "NGN",
+    "currency_decimal_spaces": "2"
+  },
+  "NORWAY": {
+    "country_name": "NORWAY",
+    "country_code": "NO",
+    "currency_code": "NOK",
+    "currency_decimal_spaces": "2"
+  },
+  "OMAN": {
+    "country_name": "OMAN",
+    "country_code": "OM",
+    "currency_code": "OMR",
+    "currency_decimal_spaces": "3"
+  },
+  "PAKISTAN": {
+    "country_name": "PAKISTAN",
+    "country_code": "PK",
+    "currency_code": "PKR",
+    "currency_decimal_spaces": "2"
+  },
+  "PANAMA": {
+    "country_name": "PANAMA",
+    "country_code": "PA",
+    "currency_code": "PAB",
+    "currency_decimal_spaces": "2"
+  },
+  "PAPUA_NEW_GUINEA": {
+    "country_name": "PAPUA NEW GUINEA",
+    "country_code": "PG",
+    "currency_code": "PGK",
+    "currency_decimal_spaces": "2"
+  },
+  "PARAGUAY": {
+    "country_name": "PARAGUAY",
+    "country_code": "PY",
+    "currency_code": "PYG",
+    "currency_decimal_spaces": "0"
+  },
+  "PERU": {
+    "country_name": "PERU",
+    "country_code": "PE",
+    "currency_code": "PEN",
+    "currency_decimal_spaces": "2"
+  },
+  "PHILIPPINES": {
+    "country_name": "PHILIPPINES",
+    "country_code": "PH",
+    "currency_code": "PHP",
+    "currency_decimal_spaces": "2"
+  },
+  "POLAND": {
+    "country_name": "POLAND",
+    "country_code": "PL",
+    "currency_code": "PLN",
+    "currency_decimal_spaces": "2"
+  },
+  "QATAR": {
+    "country_name": "QATAR",
+    "country_code": "QA",
+    "currency_code": "QAR",
+    "currency_decimal_spaces": "2"
+  },
+  "ROMANIA": {
+    "country_name": "ROMANIA",
+    "country_code": "RO",
+    "currency_code": "RON",
+    "currency_decimal_spaces": "2"
+  },
+  "RUSSIAN_FEDERATION": {
+    "country_name": "RUSSIAN FEDERATION",
+    "country_code": "RU",
+    "currency_code": "RUB",
+    "currency_decimal_spaces": "2"
+  },
+  "RWANDA": {
+    "country_name": "RWANDA",
+    "country_code": "RW",
+    "currency_code": "RWF",
+    "currency_decimal_spaces": "0"
+  },
+  "SAINT_HELENA": {
+    "country_name": "SAINT HELENA",
+    "country_code": "SH",
+    "currency_code": "SHP",
+    "currency_decimal_spaces": "2"
+  },
+  "SAMOA": {
+    "country_name": "SAMOA",
+    "country_code": "WS",
+    "currency_code": "WST",
+    "currency_decimal_spaces": "2"
+  },
+  "SAO_TOME_AND_PRINCIPE": {
+    "country_name": "SAO TOME AND PRINCIPE",
+    "country_code": "ST",
+    "currency_code": "STN",
+    "currency_decimal_spaces": "2[15]"
+  },
+  "SAUDI_ARABIA": {
+    "country_name": "SAUDI ARABIA",
+    "country_code": "SA",
+    "currency_code": "SAR",
+    "currency_decimal_spaces": "2"
+  },
+  "SERBIA": {
+    "country_name": "SERBIA",
+    "country_code": "RS",
+    "currency_code": "RSD",
+    "currency_decimal_spaces": "2"
+  },
+  "SEYCHELLES": {
+    "country_name": "SEYCHELLES",
+    "country_code": "SC",
+    "currency_code": "SCR",
+    "currency_decimal_spaces": "2"
+  },
+  "SIERRA_LEONE": {
+    "country_name": "SIERRA LEONE",
+    "country_code": "SL",
+    "currency_code": "SLE",
+    "currency_decimal_spaces": "2"
+  },
+  "SINGAPORE": {
+    "country_name": "SINGAPORE",
+    "country_code": "SG",
+    "currency_code": "SGD",
+    "currency_decimal_spaces": "2"
+  },
+  "SOLOMON_ISLANDS": {
+    "country_name": "SOLOMON ISLANDS",
+    "country_code": "SB",
+    "currency_code": "SBD",
+    "currency_decimal_spaces": "2"
+  },
+  "SOMALIA": {
+    "country_name": "SOMALIA",
+    "country_code": "SO",
+    "currency_code": "SOS",
+    "currency_decimal_spaces": "2"
+  },
+  "SOUTH_AFRICA": {
+    "country_name": "SOUTH AFRICA",
+    "country_code": "ZA",
+    "currency_code": "ZAR",
+    "currency_decimal_spaces": "2"
+  },
+  "SOUTH_SUDAN": {
+    "country_name": "SOUTH SUDAN",
+    "country_code": "SS",
+    "currency_code": "SSP",
+    "currency_decimal_spaces": "2"
+  },
+  "SRI_LANKA": {
+    "country_name": "SRI LANKA",
+    "country_code": "LK",
+    "currency_code": "LKR",
+    "currency_decimal_spaces": "2"
+  },
+  "SUDAN": {
+    "country_name": "SUDAN",
+    "country_code": "SD",
+    "currency_code": "SDG",
+    "currency_decimal_spaces": "2"
+  },
+  "SURINAME": {
+    "country_name": "SURINAME",
+    "country_code": "SR",
+    "currency_code": "SRD",
+    "currency_decimal_spaces": "2"
+  },
+  "SWAZILAND": {
+    "country_name": "SWAZILAND",
+    "country_code": "SZ",
+    "currency_code": "SZL",
+    "currency_decimal_spaces": "2"
+  },
+  "SWEDEN": {
+    "country_name": "SWEDEN",
+    "country_code": "SE",
+    "currency_code": "SEK",
+    "currency_decimal_spaces": "2"
+  },
+  "SWITZERLAND": {
+    "country_name": "SWITZERLAND",
+    "country_code": "CH",
+    "currency_code": "CHE",
+    "currency_decimal_spaces": "2"
+  },
+  "SYRIAN_ARAB_REPUBLIC": {
+    "country_name": "SYRIAN ARAB REPUBLIC",
+    "country_code": "SY",
+    "currency_code": "SYP",
+    "currency_decimal_spaces": "2"
+  },
+  "TAIWAN": {
+    "country_name": "TAIWAN",
+    "country_code": "TW",
+    "currency_code": "TWD",
+    "currency_decimal_spaces": "2"
+  },
+  "TAJIKISTAN": {
+    "country_name": "TAJIKISTAN",
+    "country_code": "TJ",
+    "currency_code": "TJS",
+    "currency_decimal_spaces": "2"
+  },
+  {
+    "country_name": "TANZANIA, UNITED REPUBLIC OF",
+    "country_code": "TZ",
+    "currency_code": "TZS",
+    "currency_decimal_spaces": "2"
+  },
+  "THAILAND": {
+    "country_name": "THAILAND",
+    "country_code": "TH",
+    "currency_code": "THB",
+    "currency_decimal_spaces": "2"
+  },
+  "TONGA": {
+    "country_name": "TONGA",
+    "country_code": "TO",
+    "currency_code": "TOP",
+    "currency_decimal_spaces": "2"
+  },
+  "TRINIDAD_AND_TOBAGO": {
+    "country_name": "TRINIDAD AND TOBAGO",
+    "country_code": "TT",
+    "currency_code": "TTD",
+    "currency_decimal_spaces": "2"
+  },
+  "TUNISIA": {
+    "country_name": "TUNISIA",
+    "country_code": "TN",
+    "currency_code": "TND",
+    "currency_decimal_spaces": "3"
+  },
+  "TURKEY": {
+    "country_name": "TURKEY",
+    "country_code": "TR",
+    "currency_code": "TRY",
+    "currency_decimal_spaces": "2"
+  },
+  "TURKMENISTAN": {
+    "country_name": "TURKMENISTAN",
+    "country_code": "TM",
+    "currency_code": "TMT",
+    "currency_decimal_spaces": "2"
+  },
+  "UGANDA": {
+    "country_name": "UGANDA",
+    "country_code": "UG",
+    "currency_code": "UGX",
+    "currency_decimal_spaces": "0"
+  },
+  "UKRAINE": {
+    "country_name": "UKRAINE",
+    "country_code": "UA",
+    "currency_code": "UAH",
+    "currency_decimal_spaces": "2"
+  },
+  "UNITED_ARAB_EMIRATES": {
+    "country_name": "UNITED ARAB EMIRATES",
+    "country_code": "AE",
+    "currency_code": "AED",
+    "currency_decimal_spaces": "2"
+  },
+  "UNITED_KINGDOM": {
+    "country_name": "UNITED KINGDOM",
+    "country_code": "GB",
+    "currency_code": "GBP",
+    "currency_decimal_spaces": "2"
+  },
+  "UNITED_STATES": {
+    "country_name": "UNITED STATES",
+    "country_code": "US",
+    "currency_code": "USD",
+    "currency_decimal_spaces": "2"
+  },
+  "URUGUAY": {
+    "country_name": "URUGUAY",
+    "country_code": "UY",
+    "currency_code": "UYI",
+    "currency_decimal_spaces": "0"
+  },
+  "UZBEKISTAN": {
+    "country_name": "UZBEKISTAN",
+    "country_code": "UZ",
+    "currency_code": "UZS",
+    "currency_decimal_spaces": "2"
+  },
+  "VANUATU": {
+    "country_name": "VANUATU",
+    "country_code": "VU",
+    "currency_code": "VUV",
+    "currency_decimal_spaces": "0"
+  },
+  "VENEZUELA": {
+    "country_name": "VENEZUELA",
+    "country_code": "VE",
+    "currency_code": "VED",
+    "currency_decimal_spaces": "2"
+  },
+  "VIET_NAM": {
+    "country_name": "VIET NAM",
+    "country_code": "VN",
+    "currency_code": "VND",
+    "currency_decimal_spaces": "0"
+  },
+  "YEMEN": {
+    "country_name": "YEMEN",
+    "country_code": "YE",
+    "currency_code": "YER",
+    "currency_decimal_spaces": "2"
+  },
+  "ZAMBIA": {
+    "country_name": "ZAMBIA",
+    "country_code": "ZM",
+    "currency_code": "ZMW",
+    "currency_decimal_spaces": "2"
+  },
+  "ZIMBABWE": {
+    "country_name": "ZIMBABWE",
+    "country_code": "ZW",
+    "currency_code": "ZWG",
+    "currency_decimal_spaces": "2"
+  }
+}

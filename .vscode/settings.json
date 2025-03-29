@@ -3,5 +3,6 @@
     {
       "mode": "auto"
     }
-  ]
+  ],
+  "python.poetryPath": ".local/bin/poetry"
 }

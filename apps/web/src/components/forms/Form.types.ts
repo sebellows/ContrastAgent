@@ -14,7 +14,7 @@ export type FormValidationStatus = 'success' | 'error' | 'warning'
 export type ValidateOn = 'change' | 'blur' | 'input' | 'submit'
 
 export type FormControlEvents<Payload = any> = {
-  (event: 'update:modelValue', payload: Payload): void
+  (event: 'update:modelValue', payload: any): void
   (event: 'focus', payload: FocusEvent): void
   (event: 'blur', payload: FocusEvent): void
   (event: 'paste', payload: ClipboardEvent): void

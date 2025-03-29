@@ -1,0 +1,3673 @@
+{
+    "products":
+    [
+        {
+            "id": 7891265618098,
+            "title": "Colour Primer: Matt Black",
+            "handle": "colour-primer-matt-black",
+            "body_html": "<h5>Quite simply the best Black Spray on the market. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:59-05:00",
+            "created_at": "2023-12-18T09:04:57-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537202512050,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3001S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "14.99",
+                    "grams": 402,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891265618098,
+                    "created_at": "2023-12-18T09:04:57-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280420790450,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:32-05:00",
+                    "product_id": 7891265618098,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3001MattBlack01_83a1f825-a6ac-4f50-843e-d45de4eccbd8.jpg?v=1708413152",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280419774642,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:31-05:00",
+                    "product_id": 7891265618098,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3001MattBlack02_bca90a63-0fa0-4ed8-b6d5-4500256f6c48.jpg?v=1708413151",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280420102322,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:31-05:00",
+                    "product_id": 7891265618098,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3001MattBlack03_62c0abcb-7e80-4483-a4f0-29e9dbd76500.jpg?v=1708413151",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280420430002,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:32-05:00",
+                    "product_id": 7891265618098,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3001MattBlack04_ddf0a1b1-a93e-47f1-a595-c05471366eaf.jpg?v=1708413152",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280420954290,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:32-05:00",
+                    "product_id": 7891265618098,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3002MattWhite05_a5c6d0cb-12a3-402e-a642-cb6423b89433.jpg?v=1708413152",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280419479730,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:31-05:00",
+                    "product_id": 7891265618098,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3001MattBlack06_29641df8-47b3-413b-888b-97bbb539186e.jpg?v=1708413151",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891262931122,
+            "title": "Colour Primer: Matt White",
+            "handle": "colour-primer-matt-white",
+            "body_html": "<h5>A very fine pigment makes the Matt White Undercoat a perfect primer for all paint jobs. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:59-05:00",
+            "created_at": "2023-12-18T09:04:50-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537199661234,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3002S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "14.99",
+                    "grams": 407,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891262931122,
+                    "created_at": "2023-12-18T09:04:50-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280419250354,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:31-05:00",
+                    "product_id": 7891262931122,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3002MattWhite01_1e39abc6-5641-4839-b802-803c5ca36963.jpg?v=1708413151",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280420659378,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:32-05:00",
+                    "product_id": 7891262931122,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3002MattWhite02_9312c09e-9886-416b-a427-307fb292b75a.jpg?v=1708413152",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280420298930,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:32-05:00",
+                    "product_id": 7891262931122,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3002MattWhite03_90560d25-8230-4d6a-a4fe-39f23eb72b26.jpg?v=1708413152",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280419512498,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:31-05:00",
+                    "product_id": 7891262931122,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3002MattWhite04_b8a3c30c-1054-442e-91ee-b3f45233f10f.jpg?v=1708413151",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280419807410,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:31-05:00",
+                    "product_id": 7891262931122,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3002MattWhite05_1cd30b48-bdc0-4a41-b450-0a4147c6d959.jpg?v=1708413151",
+                    "width": 1707,
+                    "height": 1707
+                },
+                {
+                    "id": 37280420004018,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:31-05:00",
+                    "product_id": 7891262931122,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/CP3002MattWhite06_252181d8-0d9f-4b5a-b55a-97fc9a1656a7.jpg?v=1708413151",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891264995506,
+            "title": "Colour Primer: Anti Shine Matt Varnish",
+            "handle": "colour-primer-anti-shine-matt-varnish",
+            "body_html": "<p>This acrylic varnish is truly unique and has been tailored to remove the shine of any models being dipped with <a href=\"/collections/washes\" target=\"_blank\" rel=\"noopener\"><b>Quickshade</b></a> or painted using conventional paints. Although really matt, the sprays original formula retains the metallic shine from Plate Mail etc.</p>\n<p>Always let the <a href=\"/collections/washes\"><span style=\"font-weight: bold;\">Quickshade</span> </a>dry for minimum 48 hours before using this varnish and apply it in a thin coat. Never spray in humid conditions and cold weather. Test on a model first before spraying the whole army.</p>",
+            "published_at": "2023-12-29T02:41:57-05:00",
+            "created_at": "2023-12-18T09:04:55-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537201823922,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3003S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "14.99",
+                    "grams": 404,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891264995506,
+                    "created_at": "2023-12-18T09:04:55-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280419971250,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:31-05:00",
+                    "product_id": 7891264995506,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Anti-Shine-Matt-Varnish---CP3003---1_0e35d483-2e94-434f-9f2f-78f34998964f.jpg?v=1708413151",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280420266162,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:32-05:00",
+                    "product_id": 7891264995506,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Anti-Shine-Matt-Varnish-CP3003-2_936db5c7-e45b-42d1-942f-f745f3706641.jpg?v=1708413152",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280420528306,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:32-05:00",
+                    "product_id": 7891264995506,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Anti-Shine-Matt-Varnish---CP3003---3_8d2fcc9c-e833-4b7d-8c72-87fa68b8c721.jpg?v=1708413152",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280421019826,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:33-05:00",
+                    "product_id": 7891264995506,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Anti-Shine-Matt-Varnish---CP3003---4_996aee53-1b20-43c5-b758-861fd206be3e.jpg?v=1708413153",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280420823218,
+                    "created_at": "2024-02-20T02:12:29-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:32-05:00",
+                    "product_id": 7891264995506,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Anti-Shine-Matt-Varnish---CP3003---5_83d0bf08-788c-4fb7-b9ff-ed64658e8b2e.jpg?v=1708413152",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266568370,
+            "title": "Colour Primer: Leather Brown",
+            "handle": "colour-primer-leather-brown",
+            "body_html": "<h5>This spray is ideal for wood (warmachines and Chariots), leather and brown skin and fur. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:59-05:00",
+            "created_at": "2023-12-18T09:04:59-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203560626,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3004S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 413,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266568370,
+                    "created_at": "2023-12-18T09:04:59-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280424001714,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266568370,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Leather-Brown---CP3004---0_778581ba-ec55-4042-89f6-b40073dca584.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422920370,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266568370,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Leather-Brown---CP3004---2_3d7c2b14-be2b-4044-9404-5428a42c3455.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423313586,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266568370,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Leather-Brown---CP3004---3_54701636-36a1-4af5-88d7-f79317d84152.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422690994,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891266568370,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Leather-Brown---CP3004---4_36b47186-4dff-428b-916d-b3f13f0ee878.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423837874,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266568370,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Leather-Brown---CP3004---5_af1ff52c-a240-4c97-9783-2606e4f1d2c1.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423542962,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266568370,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Leather-Brown---CP3004---6_c9e53afc-4f57-42e4-be49-93872e9bc170.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266109618,
+            "title": "Colour Primer: Army Green",
+            "handle": "colour-primer-army-green",
+            "body_html": "<h5>As the name suggests, this Colour Primer is great for historical miniatures representing armed forces.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:57-05:00",
+            "created_at": "2023-12-18T09:04:58-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537202938034,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3005S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 400,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266109618,
+                    "created_at": "2023-12-18T09:04:58-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280422265010,
+                    "created_at": "2024-02-20T02:12:45-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891266109618,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Army-Green---CP3005---0_399a4f25-0d45-4cd8-b067-8ab41f356314.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423182514,
+                    "created_at": "2024-02-20T02:12:45-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266109618,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Army-Green---CP3005---2_d602f01f-b72d-496f-897f-d6bd8edfe186.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422953138,
+                    "created_at": "2024-02-20T02:12:45-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266109618,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Army-Green---CP3005---3_a999887f-79e2-4f52-bc7c-01a82de825f0.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280424067250,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266109618,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Army-Green---CP3005---4_1756ba47-daaf-43d7-b9f7-08a63797bce6.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422658226,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891266109618,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Army-Green---CP3005---5_a9cedf4e-fecd-4b87-bdad-4a9eb18759aa.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422396082,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891266109618,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Army-Green---CP3005---6_4ac71c0d-83ce-43a0-83ab-21ce71741065.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891265880242,
+            "title": "Colour Primer: Pure Red",
+            "handle": "colour-primer-pure-red",
+            "body_html": "<h5>A truly groundbreaking spray. The pigment in the Colour Primer is such a good quality that it will easily cover even previous black undercoated models! </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:42:01-05:00",
+            "created_at": "2023-12-18T09:04:57-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537202708658,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3006S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 408,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891265880242,
+                    "created_at": "2023-12-18T09:04:57-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280422330546,
+                    "created_at": "2024-02-20T02:12:45-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891265880242,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Pure-Red---CP3006---0_9e705d23-f970-43f9-97b7-55ef14b8ebbc.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423051442,
+                    "created_at": "2024-02-20T02:12:45-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891265880242,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Pure-Red---CP3006---2_0a1b69ea-5c04-4857-9a1a-cc33f2267655.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422133938,
+                    "created_at": "2024-02-20T02:12:45-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891265880242,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Pure-Red---CP3006---3_b6dab5f0-e456-4abe-b385-45cdf7c0f3b7.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423674034,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891265880242,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Pure-Red---CP3006---4_f651c4de-a192-44af-8671-ebdd7c4d1b5c.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422428850,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891265880242,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Pure-Red---CP3006---5_686e7caf-e8ae-4ea9-b589-627ab771d750.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422723762,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891265880242,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Pure-Red---CP3006---6_fd785c15-fba7-4e5b-a233-c6971ce2eff0.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891263062194,
+            "title": "Colour Primer: Barbarian Flesh",
+            "handle": "colour-primer-barbarian-flesh",
+            "body_html": "<h5>This Colour Primer is great for spraying miniatures with exposed skin, saving you loads of time. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:57-05:00",
+            "created_at": "2023-12-18T09:04:50-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537199792306,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3007S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 394,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891263062194,
+                    "created_at": "2023-12-18T09:04:50-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280422232242,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891263062194,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Barbarian-Flesh---CP3007---0_4efafc0f-3cf1-4b97-9247-2ed74bd1aee2.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423116978,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891263062194,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Barbarian-Flesh---CP3007---2_779b38cf-8755-4d6f-9a2c-e1f79ef6082e.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423477426,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891263062194,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Barbarian-Flesh---CP3007---3_40058914-4c85-4165-853e-4f291854ff66.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422068402,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:47-05:00",
+                    "product_id": 7891263062194,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Barbarian-Flesh---CP3007---4_30c2b908-a2db-4584-9ef0-057fbb50936e.jpg?v=1708413167",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422527154,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891263062194,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Barbarian-Flesh---CP3007---5_a81e0bbc-052c-49fa-bcf2-e8f21304ea9f.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422756530,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891263062194,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Barbarian-Flesh---CP3007---6_251f1fca-91a6-4c69-bf6a-0e7ace613a77.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891265159346,
+            "title": "Colour Primer: Plate Mail Metal",
+            "handle": "colour-primer-plate-mail-metal",
+            "body_html": "<h5>A truly unique spray. It has the look of hardened steel yet still being so matt that other acrylic paints cover it perfectly.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:42:00-05:00",
+            "created_at": "2023-12-18T09:04:55-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537201987762,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3008S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 391,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891265159346,
+                    "created_at": "2023-12-18T09:04:55-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280422035634,
+                    "created_at": "2024-02-20T02:12:45-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:47-05:00",
+                    "product_id": 7891265159346,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Plate-Mail-Metal---CP3008---0_d3b5b7b3-043b-4e8c-a0f8-fc4d33a6653a.jpg?v=1708413167",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422854834,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891265159346,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Plate-Mail-Metal---CP3008---2_e75ed57a-61b4-4ae1-a1c8-6c0fca5f720d.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422592690,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891265159346,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Plate-Mail-Metal---CP3008---3_2bf27828-7f27-4be8-a3cd-7da6a2b5df2d.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422166706,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891265159346,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Plate-Mail-Metal---CP3008---4_38ac890d-a43c-4b9d-bc88-591aed797204.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422297778,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891265159346,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Plate-Mail-Metal---CP3008---5_458ae360-d378-4f9d-acc7-9b433f0d0cff.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423379122,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891265159346,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Plate-Mail-Metal---CP3008---6_a84fd886-0851-4c3e-8561-3ac55e333b57.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266764978,
+            "title": "Colour Primer: Uniform Grey",
+            "handle": "colour-primer-uniform-grey",
+            "body_html": "<h5>Another ideal spray for historical miniatures and those savage Space Wolves or guardsmen. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T07:31:52-05:00",
+            "created_at": "2023-12-18T09:05:00-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203724466,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3010S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 410,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266764978,
+                    "created_at": "2023-12-18T09:05:00-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280423444658,
+                    "created_at": "2024-02-20T02:12:47-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266764978,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Uniform-Grey---CP3010---0_2019d1eb-6494-4557-a47b-41fffa304eb7.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423903410,
+                    "created_at": "2024-02-20T02:12:47-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266764978,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Uniform-Grey---CP3010---2_635b6295-c84b-42b5-8a3c-aec48419435d.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280424165554,
+                    "created_at": "2024-02-20T02:12:47-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:51-05:00",
+                    "product_id": 7891266764978,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Uniform-Grey---CP3010---3_20503f39-2e66-4f30-807f-53550e33d36b.jpg?v=1708413171",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423248050,
+                    "created_at": "2024-02-20T02:12:47-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266764978,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Uniform-Grey---CP3010---4_98944896-5167-43c4-9b65-8bf2b60bf88e.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423706802,
+                    "created_at": "2024-02-20T02:12:47-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266764978,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Uniform-Grey---CP3010---5_b5ef119a-e4fd-4367-8df9-b4e058021b03.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280424132786,
+                    "created_at": "2024-02-20T02:12:47-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266764978,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Uniform-Grey---CP3010---6_fbaa0317-4aca-4b74-9b60-70eb3e907fae.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266273458,
+            "title": "Colour Primer: Desert Yellow",
+            "handle": "colour-primer-desert-yellow",
+            "body_html": "<h5>A Colour Primer originally designed for WWII desert vehicles and uniforms.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:58-05:00",
+            "created_at": "2023-12-18T09:04:58-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203101874,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3011S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 419,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266273458,
+                    "created_at": "2023-12-18T09:04:58-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280422625458,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891266273458,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Desert-Yellow---CP3011---0_e9bc680f-21cd-42c4-a86a-8daaa982e673.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423936178,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266273458,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Desert-Yellow---CP3011---2_716d802e-f0da-4629-b872-813c4598a132.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423608498,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266273458,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Desert-Yellow---CP3011---3_05d85f6c-583f-4db8-94c2-732b94233230.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422887602,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266273458,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Desert-Yellow---CP3011---4_2c94ee8c-296f-4167-823d-d6613d9d5ba9.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423772338,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266273458,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Desert-Yellow---CP3011---5_1e0d29b2-dec5-40bd-a001-e6991dc7d72e.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423215282,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266273458,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Desert-Yellow---CP3011---6_3b4b82a2-cc38-4677-b457-f80c5cf639e4.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266044082,
+            "title": "Colour Primer: Skeleton Bone",
+            "handle": "colour-primer-skeleton-bone",
+            "body_html": "<h5>As the name suggests, this Colour Primer has been designed to look exactly like Bleached Bone making it an absolute must for armies of shambling dead. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:42:01-05:00",
+            "created_at": "2023-12-18T09:04:58-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537202872498,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3012S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 403,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266044082,
+                    "created_at": "2023-12-18T09:04:58-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280422494386,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891266044082,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Skeleton-Bone---CP3012---0_8e071a63-6966-4362-a9d6-8705ee111cec.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423641266,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266044082,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Skeleton-Bone---CP3012---2_8b9c2d85-43bd-4a2f-8dcf-70bbfd5f6833.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422789298,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266044082,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Skeleton-Bone---CP3012---3_0a72375a-19cf-49ec-a627-32232e7b7c11.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423411890,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891266044082,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Skeleton-Bone---CP3012---4_e2359e5e-4e51-45c6-949c-8fae9afe4df0.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423968946,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266044082,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Skeleton-Bone---CP3012---5_5a22a074-f237-4599-90f3-602720e24bdc.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423870642,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891266044082,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Skeleton-Bone---CP3012---6_3ae2336a-6472-4390-93a9-00bae7271063.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891263127730,
+            "title": "Colour Primer: Necrotic Flesh",
+            "handle": "colour-primer-necrotic-flesh",
+            "body_html": "<h5>Is ideal for the rotten skin of Ghouls, zombies, vampires, pestilence demons and plague warshipping ratmen etc. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:42:00-05:00",
+            "created_at": "2023-12-18T09:04:50-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537199857842,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3013S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 405,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891263127730,
+                    "created_at": "2023-12-18T09:04:50-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280423280818,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891263127730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Necrotic-Flesh---CP3013---0_84f55b0a-3057-469f-b23a-c3d96965ae85.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423739570,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891263127730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Necrotic-Flesh---CP3013---2_ff2b316f-c9d6-4237-b02d-372edf0a05b6.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280424034482,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891263127730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Necrotic-Flesh---CP3013---3_1736d2b4-b7fc-49c4-b76b-778a53b2dc13.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423510194,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891263127730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Necrotic-Flesh---CP3013---4_126089e9-2067-4257-8c8e-10a4292f9ed2.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422461618,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891263127730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Necrotic-Flesh---CP3013---5_73d3d68c-b37c-4303-b1b9-1d10f95768f5.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422822066,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891263127730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Necrotic-Flesh---CP3013---6_d9d01d5c-6144-4b63-ab1a-69a7ee3ab2b2.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891265323186,
+            "title": "Colour Primer: Greenskin",
+            "handle": "colour-primer-greenskin",
+            "body_html": "<h5>The name says it all... The perfect primer for all Orcs and Goblin armies.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:59-05:00",
+            "created_at": "2023-12-18T09:04:56-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537202184370,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3014S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 406,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891265323186,
+                    "created_at": "2023-12-18T09:04:56-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280422363314,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891265323186,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Greenskin---CP3014---0_5e9f66e2-7047-44cf-bd3f-0c9a70ba6c29.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423805106,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:12:50-05:00",
+                    "product_id": 7891265323186,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Greenskin---CP3014---2_cf9d90b5-a962-44de-bbb9-8c6898482555.jpg?v=1708413170",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423575730,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891265323186,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Greenskin---CP3014---3_e014669d-c592-4733-b9e0-9d210ea19cfd.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422985906,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891265323186,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Greenskin---CP3014---4_94ad94eb-9d94-4da6-9abd-a09958489889.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280422559922,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:12:48-05:00",
+                    "product_id": 7891265323186,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Greenskin---CP3014---5_36d23fb1-fe0d-41b6-928a-fe022697fa73.jpg?v=1708413168",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280423346354,
+                    "created_at": "2024-02-20T02:12:46-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:12:49-05:00",
+                    "product_id": 7891265323186,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Greenskin---CP3014---6_21cfb2e5-f1cc-48f6-804c-3e3583090f9a.jpg?v=1708413169",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266961586,
+            "title": "Colour Primer: Daemonic Yellow",
+            "handle": "colour-primer-daemonic-yellow",
+            "body_html": "<h5>This Colour Primer has a clear and crisp colour and is imminent for Space Marines, Daemons, Eldar, Lizards, Dragons or any army with a striking colour scheme. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:57-05:00",
+            "created_at": "2023-12-18T09:05:00-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203953842,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3015S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 394,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266961586,
+                    "created_at": "2023-12-18T09:05:00-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280426885298,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891266961586,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Daemonic-Yellow---CP3015---0_cf4f9aa7-f8f2-4977-bf77-6309a89d291b.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426557618,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891266961586,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Daemonic-Yellow---CP3015---2_06bd9558-ca43-4abf-8643-4780ed02600f.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425509042,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:05-05:00",
+                    "product_id": 7891266961586,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Daemonic-Yellow---CP3015---3_b1f6defe-7789-4abe-bc7e-12ee038c2f36.jpg?v=1708413185",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426229938,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891266961586,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Daemonic-Yellow---CP3015---4_e9deb696-9875-42c1-ba0a-65e0c6439b24.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425345202,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:05-05:00",
+                    "product_id": 7891266961586,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Daemonic-Yellow---CP3015---5_92c581d0-a9ee-4208-bf8a-cc145262ab04.jpg?v=1708413185",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425836722,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891266961586,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Daemonic-Yellow---CP3015---6_fafea03d-0a2e-41f7-8db6-d1fa15e348ec.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266535602,
+            "title": "Colour Primer: Fur Brown",
+            "handle": "colour-primer-fur-brown",
+            "body_html": "<h5>This colour will look fantastic on Skaven, Beastmen and any creature with fur on it. Allied with this Colour Primer you will save endless time base coating a horde army.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:58-05:00",
+            "created_at": "2023-12-18T09:04:59-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203495090,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3016S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 412,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266535602,
+                    "created_at": "2023-12-18T09:04:59-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280425148594,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:04-05:00",
+                    "product_id": 7891266535602,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Fur-Brown---CP3016---0-1_258d8b46-cd2f-489f-b439-ab99284c9fca.jpg?v=1708413184",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426098866,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891266535602,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Fur-Brown---CP3016---3_2762c88b-eeec-4408-9e9a-b332e0ac83a6.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425410738,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:05-05:00",
+                    "product_id": 7891266535602,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Fur-Brown---CP3016---4_163ea73d-95f7-41bb-bc65-0c5d1a94b0d9.jpg?v=1708413185",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425738418,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891266535602,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Fur-Brown---CP3016---5_e3add095-1b21-4e59-881a-0604d6f1c3ea.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425115826,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:04-05:00",
+                    "product_id": 7891266535602,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Fur-Brown---CP3016---6_c1e36bbc-54e6-48a9-976d-4ddb840369f0.jpg?v=1708413184",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891263291570,
+            "title": "Colour Primer: Dragon Red",
+            "handle": "colour-primer-dragon-red",
+            "body_html": "<h5>This spray is a very dark and deep red and is the ultimate basecoat for those Blood Angels, Khorne Bezerkers or any Khorne Daemons, Dragons or Warmachine Khador.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:58-05:00",
+            "created_at": "2023-12-18T09:04:51-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537200021682,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3018S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 405,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891263291570,
+                    "created_at": "2023-12-18T09:04:51-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280425443506,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:05-05:00",
+                    "product_id": 7891263291570,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Dragon-Red---CP3018---0_ed2b3880-b509-4384-9e1b-7f3be5e3aec1.jpg?v=1708413185",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425672882,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891263291570,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Dragon-Red---CP3018---2_9c029b15-0a10-486e-b5b1-48c7f5d242bf.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426590386,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891263291570,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Dragon-Red---CP3018---3_44436f38-7d4e-40af-a41d-119eaa183ae0.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425246898,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:05-05:00",
+                    "product_id": 7891263291570,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Dragon-Red---CP3018---4_94f3641d-7322-4907-baeb-8bfa713deab5.jpg?v=1708413185",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426295474,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891263291570,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Dragon-Red---CP3018---5_fcadb754-798a-4f21-8677-0ba33b6a200c.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426000562,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891263291570,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Dragon-Red---CP3018---6_4f7bcc3a-d3ee-4b80-9845-ed13b93236e5.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891265487026,
+            "title": "Colour Primer: Angel Green",
+            "handle": "colour-primer-angel-green",
+            "body_html": "<h5>This spray has a beautiful deep and dark green which is absolutely perfect for Dark Angel Space Marines, Wood elves or even scenery.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:56-05:00",
+            "created_at": "2023-12-18T09:04:56-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537202315442,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3020S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 403,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891265487026,
+                    "created_at": "2023-12-18T09:04:56-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280425377970,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:05-05:00",
+                    "product_id": 7891265487026,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Angel-Green---CP3020---0_f22918a2-4f86-4389-9ab0-3e2151fc3971.jpg?v=1708413185",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426819762,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891265487026,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Angel-Green---CP3020---2_0b4c7da1-5827-4809-9b2a-fce8945a08e3.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426164402,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891265487026,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Angel-Green---CP3020---3_2993503a-5ee4-4279-82fb-08a4cbf6bbe1.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426524850,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891265487026,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Angel-Green---CP3020---4_fb4d574b-c3fc-4eb1-ad17-ff19d67106b0.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425803954,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891265487026,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Angel-Green---CP3020---5_8982294f-cb71-40b1-8308-d5d226e99e74.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425541810,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:05-05:00",
+                    "product_id": 7891265487026,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Angel-Green---CP3020---6_a5dd2e58-1456-4519-9256-5de2915ec325.jpg?v=1708413185",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891267223730,
+            "title": "Colour Primer: Alien Purple",
+            "handle": "colour-primer-alien-purple",
+            "body_html": "<h5>A rich purple suited for a multitude of purposes.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:56-05:00",
+            "created_at": "2023-12-18T09:05:01-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537204183218,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3019S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 412,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891267223730,
+                    "created_at": "2023-12-18T09:05:01-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280425574578,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891267223730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Alien-Purple---CP3019---0_7aef4592-8ffc-4fda-a092-dc0bcf242143.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280427147442,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891267223730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Alien-Purple---CP3019---2_b25132f5-3113-42f0-bbd4-54c0273a6daf.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426950834,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891267223730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Alien-Purple---CP3019---3_e32a858f-fd74-4cc3-ae3f-1f68c2f8bb61.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426688690,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891267223730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Alien-Purple---CP3019---4_13303d74-b766-4be9-84a3-59289bbd2eea.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425902258,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891267223730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Alien-Purple---CP3019---5_bb60528e-5b5c-40db-aa36-f1145c8496b7.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426426546,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891267223730,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Alien-Purple---CP3019---6_ee823772-c925-4d68-b742-5cf34a716e9c.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266732210,
+            "title": "Colour Primer: Wolf Grey",
+            "handle": "colour-primer-wolf-grey",
+            "body_html": "<h5>Wolf Grey is a beautiful greyish blue colour, perfect for Space Wolves or Urban fatigues, furs, monsters or as a great alternative to blue.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T07:31:26-05:00",
+            "created_at": "2023-12-18T09:04:59-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203691698,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3021S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 411,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266732210,
+                    "created_at": "2023-12-18T09:04:59-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280425607346,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891266732210,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Wolf-Grey---CP3021---0_1c0a0b1d-c5bf-4c7f-93bf-95246f1bb50e.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280427180210,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891266732210,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Wolf-Grey---CP3021---2_45b33049-3fb0-4fef-a23c-660f8c4003cd.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426786994,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891266732210,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Wolf-Grey---CP3021---3_191fb89e-20be-497e-96be-e9135c56caa1.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280427049138,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891266732210,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Wolf-Grey---CP3021---4_3e13b24c-813b-4180-9948-8c301834b764.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426066098,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891266732210,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Wolf-Grey---CP3021---5_cf57c29f-5aba-4799-b99c-25df138406f8.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425312434,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:05-05:00",
+                    "product_id": 7891266732210,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Wolf-Grey---CP3021---6_466add77-c346-4c1e-aca5-398eddfc2377.jpg?v=1708413185",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266470066,
+            "title": "Colour Primer: Ultramarine Blue",
+            "handle": "colour-primer-ultramarine-blue",
+            "body_html": "<h5>The name says it all... But apart from Space Marines, this is also the perfect colour for Lizardmen, Imp. guard, Cygnar or American Civil War for instance.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T07:31:21-05:00",
+            "created_at": "2023-12-18T09:04:59-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203429554,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3022S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 389,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266470066,
+                    "created_at": "2023-12-18T09:04:59-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280425869490,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891266470066,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Ultramarine-Blue---CP3022---0_0bccc505-90f2-4c26-a2e7-208f81f304ec.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426197170,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891266470066,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Ultramarine-Blue---CP3022---2_9e344204-6ee3-4fc2-9044-25dbe0f3dbae.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426721458,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891266470066,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Ultramarine-Blue---CP3022---3_c24a5953-42aa-458d-961f-273c1e54fd2d.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426459314,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891266470066,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Ultramarine-Blue---CP3022---4_9c31392d-d7fa-4c0f-a6e5-3bfea25d5372.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280427081906,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891266470066,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Ultramarine-Blue---CP3022---5_38c7e680-a3a8-4d5f-a1ae-1c3adc7e8e95.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426852530,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891266470066,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Ultramarine-Blue---CP3022---6_7ef78816-6115-495f-a5f0-195c630555f6.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891265650866,
+            "title": "Colour Primer: Gun Metal",
+            "handle": "colour-primer-gun-metal",
+            "body_html": "<h5>The Gun Metal is a rich and dark metal and is nothing but the perfect basecoat for Knights and dark Sci-Fi &amp; Fantasy. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:59-05:00",
+            "created_at": "2023-12-18T09:04:57-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537202446514,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3025S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 387,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891265650866,
+                    "created_at": "2023-12-18T09:04:57-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280427278514,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:08-05:00",
+                    "product_id": 7891265650866,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Gun-Metal---CP3025---0_69726b51-266b-4fb4-955f-4a9646d7c348.jpg?v=1708413188",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426655922,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891265650866,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Gun-Metal---CP3025---2_429a0d21-3932-4d5a-880b-284be8d899a6.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280425705650,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891265650866,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Gun-Metal---CP3025--3_69de09dc-553f-4377-9b54-5d632dc508f4.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426033330,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891265650866,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Gun-Metal-CP3025-4_c0f0c866-2ccd-4c4b-9fbc-73de8d745729.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426983602,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:07-05:00",
+                    "product_id": 7891265650866,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Gun-Metal---CP3025---5_75c77431-b952-4765-9661-5428ee851a30.jpg?v=1708413187",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280426393778,
+                    "created_at": "2024-02-20T02:13:03-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:06-05:00",
+                    "product_id": 7891265650866,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Gun-Metal---CP3025---6_9e095a1d-716f-467c-97d6-d3d5a0753983.jpg?v=1708413186",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266896050,
+            "title": "Colour Primer: Aegis Suit Satin Varnish",
+            "handle": "colour-primer-aegis-suit-satin-varnish",
+            "body_html": "<h5>The Aegis Suit Satin Varnish will protect any tabletop or roleplaying miniature &amp; model from the wear and tear of the battlefield.</h5>\n<p>Unlike the <a href=\"https://thearmypainter.com/products/colour-primer-anti-shine-matt-varnish\"><span style=\"font-weight: bold;\">Anti Shine Matt Varnish</span></a> developed for<a href=\"https://thearmypainter.com/collections/quickshade\"> <span style=\"font-weight: bold;\">Quickshade</span></a>, the Aegis Suit will leave a slight satin finish on your models and is ultra protective on any acrylic surface.</p>\n<p>Protect the paint work you have painstakingly put into your models by using this high-quality satin varnish: the Aegis Suit will not let you or your models down.</p>",
+            "published_at": "2023-12-29T02:41:56-05:00",
+            "created_at": "2023-12-18T09:05:00-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203855538,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3027S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "14.99",
+                    "grams": 402,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266896050,
+                    "created_at": "2023-12-18T09:05:00-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280428523698,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891266896050,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Aegis-Suit-Satin-Varnish---CP3027---1_5cbee1ab-8bf0-4452-9b04-c23d82d3e91a.jpg?v=1708413202",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280429080754,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266896050,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Aegis-Suit-Satin-Varnish---CP3027---2_f640fb83-3a62-4573-969e-988e7c6a7602.jpg?v=1708413203",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280428818610,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266896050,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Aegis-Suit-Satin-Varnish---CP3027---3_d6c7953b-0bcd-420f-bb14-d86f41eaa2dc.jpg?v=1708413203",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280429473970,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266896050,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Aegis-Suit-Satin-Varnish---CP3027---4_eadd5014-da97-4f75-91c5-cbc7859dec9e.jpg?v=1708413203",
+                    "width": 3000,
+                    "height": 3000
+                },
+                {
+                    "id": 37280428687538,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891266896050,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/Aegis-Suit-Satin-Varnish---CP3027---5_61594733-eec3-4a48-9f5a-ef3ebb092b9d.jpg?v=1708413202",
+                    "width": 3000,
+                    "height": 3000
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266633906,
+            "title": "Colour Primer: Greedy Gold",
+            "handle": "colour-primer-greedy-gold",
+            "body_html": "<h5>Greedy Gold is a new addition to the Colour Primer range, featuring a unique formulation specially designed to make the fine golden metal flake shimmer. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:59-05:00",
+            "created_at": "2023-12-18T09:04:59-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203593394,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3028S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "22.50",
+                    "grams": 402,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266633906,
+                    "created_at": "2023-12-18T09:04:59-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280428589234,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891266633906,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GreedyGold-CP3028-img.1copy_cd6b7039-23d1-4cff-9e70-5d5be9036240.jpg?v=1708413202",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428851378,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266633906,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GreedyGold-CP3028-img.2copy_80fe2ed9-e3fe-49c5-b682-55555e6671b5.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428392626,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:21-05:00",
+                    "product_id": 7891266633906,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GreedyGold-CP3028-img.3copy_2031e872-3784-4a82-a7aa-41cf41366200.jpg?v=1708413201",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429146290,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266633906,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GreedyGold-CP3028-img.4copy_5eec8e58-581c-4737-80ae-7f987683348e.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428458162,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891266633906,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GreedyGold-CP3028-img.5copy_a17412b7-c38b-480a-b5f7-7d09531af9d5.jpg?v=1708413202",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429375666,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266633906,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GreedyGold-CP3028-img.6copy_6a374d46-37c5-4253-b464-2a651755e5da.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891263488178,
+            "title": "Colour Primer: Ash Grey",
+            "handle": "colour-primer-ash-grey",
+            "body_html": "<h5>Like it’s matching Warpaint, this Colour Primer is a light grey tone which is a perfect basecoat for historical uniforms and vehicles, and even chaff infantry of far-off futuristic forces. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:57-05:00",
+            "created_at": "2023-12-18T09:04:51-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537200218290,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3029S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 402,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891263488178,
+                    "created_at": "2023-12-18T09:04:51-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280428556466,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891263488178,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/AshGrey-CP3029-img.1copy_a4043c3d-4281-4bbf-971c-e1d59b79f790.jpg?v=1708413202",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429637810,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891263488178,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/AshGrey-CP3029-img.2copy_6bd06f40-0684-4210-9dfd-8540f39c2165.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428753074,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891263488178,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/AshGrey-CP3029-img.3copy_786f7c6c-da62-4016-a037-0ac535ef9b24.jpg?v=1708413202",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429015218,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891263488178,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/AshGrey-CP3029-img.4copy_0ade685a-f3bc-46d7-ae54-1d23a233322b.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428490930,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891263488178,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/AshGrey-CP3029-img.5copy_ad7076bc-3cf9-4468-a3a6-7028d5c109d2.jpg?v=1708413202",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429342898,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891263488178,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/AshGrey-CP3029-img.6copy_8e14c383-28d7-4fca-9062-ba75f8522eb7.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891265814706,
+            "title": "Colour Primer: Brainmatter Beige",
+            "handle": "colour-primer-brainmatter-beige",
+            "body_html": "<h5>Like it’s matching Warpaint, this Colour primer is a warm white tone. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:57-05:00",
+            "created_at": "2023-12-18T09:04:57-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537202643122,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3031S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 402,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891265814706,
+                    "created_at": "2023-12-18T09:04:57-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280428622002,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891265814706,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/BrainmatterBeige-CP3031-img.1copy_855500e9-7db6-4603-a166-df779dfc0778.jpg?v=1708413202",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428982450,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891265814706,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/BrainmatterBeige-CP3031-img.2copy_e3840bec-2ae8-4e26-a79d-617a7b44bbef.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428785842,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891265814706,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/BrainmatterBeige-CP3031-img.3copy_f7dd0597-eec4-4eb4-b261-670b821db817.jpg?v=1708413202",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429834418,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891265814706,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/BrainmatterBeige-CP3031-img.4copy_8f48ba0f-02f8-4cdb-9273-27eff791555c.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429277362,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891265814706,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/BrainmatterBeige-CP3031-img.5copy_4818c8b9-e1b5-416d-8506-13d9dd9e5100.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429539506,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891265814706,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/BrainmatterBeige-CP3031-img.6copy_b3c49497-854a-4565-8aaf-16291d925538.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891267682482,
+            "title": "Colour Primer: Oak Brown",
+            "handle": "colour-primer-oak-brown",
+            "body_html": "<h5>Oak Brown is a rich, dark brown that is designed to work specifically for earthen forces of fur and wood.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:42:00-05:00",
+            "created_at": "2023-12-18T09:05:02-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537204641970,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3030S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 402,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891267682482,
+                    "created_at": "2023-12-18T09:05:02-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280429408434,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891267682482,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/OakBrown-CP3033-img.1copy_4d08e062-52c9-4447-ad35-1adaf8a3a413.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429768882,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891267682482,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/OakBrown-CP3033-img.2copy_de409ab9-3798-44c8-93e8-ae95f00b17d8.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280430031026,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891267682482,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/OakBrown-CP3033-img.3copy_44cfdacc-bbfe-49a1-884b-9caca588dfd5.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280430358706,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:25-05:00",
+                    "product_id": 7891267682482,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/OakBrown-CP3033-img.4copy_feb083b6-9bfb-4ee0-ad23-810387f02037.jpg?v=1708413205",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280430260402,
+                    "created_at": "2024-02-20T02:13:22-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891267682482,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/OakBrown-CP3033-img.5copy_9ce1632e-9285-487d-9e75-198bce4928df.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280430457010,
+                    "created_at": "2024-02-20T02:13:22-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:25-05:00",
+                    "product_id": 7891267682482,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/OakBrown-CP3033-img.6copy_3860a38e-fb88-472e-941f-f3cb86435b2b.jpg?v=1708413205",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891267059890,
+            "title": "Colour Primer: Deep Blue",
+            "handle": "colour-primer-deep-blue",
+            "body_html": "<h5>Like it’s matching Warpaint, this Colour Primer is a darker alternative to our staple spray, Ultramarine Blue. </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:58-05:00",
+            "created_at": "2023-12-18T09:05:00-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537204052146,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3032S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "17.99",
+                    "grams": 402,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891267059890,
+                    "created_at": "2023-12-18T09:05:00-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280428949682,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891267059890,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/DeepBlue-CP3032-img.1copy_70bde0a2-c05e-4917-b50e-f010487247b2.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429572274,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891267059890,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/DeepBlue-CP3032-img.2copy_8da27a8d-fbcc-41ec-bf6a-78152247e9ff.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280430096562,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891267059890,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/DeepBlue-CP3032-img.3copy_f211d08f-06c4-465c-a0bb-fd485a866309.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429244594,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891267059890,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/DeepBlue-CP3032-img.4copy_901226f0-2f7c-4158-b01a-beace0dc359c.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429867186,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891267059890,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/DeepBlue-CP3032-img.5copy_7ccb3b01-b49d-4ada-83c4-f9c86ccf7029.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280430293170,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891267059890,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/DeepBlue-CP3032-img.6copy_cfeb0395-73db-4641-8e39-8f12b4a18c77.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266830514,
+            "title": "Colour Primer: Hydra Turquoise",
+            "handle": "colour-primer-hydra-turquoise",
+            "body_html": "<h5>This spray is well suited for armored marines from the far-off future as well as elven armies.</h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:41:59-05:00",
+            "created_at": "2023-12-18T09:05:00-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203822770,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3033S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17.99",
+                    "grams": 402,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266830514,
+                    "created_at": "2023-12-18T09:05:00-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280428654770,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891266830514,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/HydraTurquoise-CP3033-img.1copy_9cb02d11-16e3-4326-82a9-2b0372692543.jpg?v=1708413202",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429310130,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266830514,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/HydraTurquoise-CP3033-img.2copy_1e6a6ef5-1df5-4000-b929-f4f6d25a8841.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429113522,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266830514,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/HydraTurquoise-CP3033-img.3copy_ecb7b7f2-a7d6-4aa1-bc11-7bfa496ed403.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429605042,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266830514,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/HydraTurquoise-CP3033-img.4copy_ac5e55c6-5aa0-4288-9453-01cac8dd1d70.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429899954,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891266830514,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/HydraTurquoise-CP3033-img.5copy_8057da82-36f3-4350-aee7-5c0a1e894bd3.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428884146,
+                    "created_at": "2024-02-20T02:13:21-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891266830514,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/HydraTurquoise-CP3033-img.6copy_90ac09a3-35bc-4ed3-85f1-7687f4b85e33.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891263619250,
+            "title": "Colour Primer: Pixie Pink",
+            "handle": "colour-primer-pixie-pink",
+            "body_html": "<h5>What’s more fun and unique than a vibrant pink army! </h5>\n<ul>\n<li>Saves time painting - Prime your model with your chosen base colour</li>\n<li>Precision nozzle and fast drying acrylic primer = Perfect coverage!</li>\n<li>24 Colours, with a 100% matching Warpaint</li>\n<li>Leaves every detail on the miniature in excellent condition.</li>\n</ul>",
+            "published_at": "2023-12-29T02:42:00-05:00",
+            "created_at": "2023-12-18T09:04:52-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "COLOUR PRIMERS"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537200349362,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "CP3034S",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "16.99",
+                    "grams": 402,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891263619250,
+                    "created_at": "2023-12-18T09:04:52-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280429506738,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891263619250,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/PixiePink-CP3034-img.1copy_ce8332b7-a42c-447b-914b-ad99e4d5fb57.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429736114,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891263619250,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/PixiePink-CP3034-img.2copy_26813ae3-dda3-4f2c-ba64-4192988b7274.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429211826,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891263619250,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/PixiePink-CP3034-img.3copy_e98b771d-0bb2-4582-ae95-9df187fd569d.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280429998258,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:24-05:00",
+                    "product_id": 7891263619250,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/PixiePink-CP3034-img.4copy_53da26d0-0bb3-47fc-8c1d-54eb1e64a0e8.jpg?v=1708413204",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428720306,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:22-05:00",
+                    "product_id": 7891263619250,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/PixiePink-CP3034-img.5copy_22dc1c62-4fa8-4614-b634-4730a46f6256.jpg?v=1708413202",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280428916914,
+                    "created_at": "2024-02-20T02:13:20-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:23-05:00",
+                    "product_id": 7891263619250,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/PixiePink-CP3034-img.6copy_7d9be49c-c6ae-4f6d-af68-be46241d5893.jpg?v=1708413203",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7891266502834,
+            "title": "GameMaster Terrain Primer: Ruins & Cliffs",
+            "handle": "gamemaster-terrain-primer-ruins-cliffs",
+            "body_html": "<p>Contains 300ml</p>",
+            "published_at": "2023-12-29T07:35:11-05:00",
+            "created_at": "2023-12-18T09:04:59-05:00",
+            "updated_at": "2024-08-17T14:07:01-04:00",
+            "vendor": "The Army Painter",
+            "product_type": "Spray",
+            "tags":
+            [
+                "GAMEMASTER",
+                "GameMaster products",
+                "GM Sprays"
+            ],
+            "variants":
+            [
+                {
+                    "id": 43537203462322,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "GM3002P",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "12.99",
+                    "grams": 352,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7891266502834,
+                    "created_at": "2023-12-18T09:04:59-05:00",
+                    "updated_at": "2024-08-17T14:07:01-04:00"
+                }
+            ],
+            "images":
+            [
+                {
+                    "id": 37280432455858,
+                    "created_at": "2024-02-20T02:13:40-05:00",
+                    "position": 1,
+                    "updated_at": "2024-02-20T02:13:42-05:00",
+                    "product_id": 7891266502834,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GM3002Ruins_CliffsTerrainPrimer-Promopack-1copy_87137afd-d68b-4da6-b559-14d11d7900ed.jpg?v=1708413222",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280432718002,
+                    "created_at": "2024-02-20T02:13:40-05:00",
+                    "position": 2,
+                    "updated_at": "2024-02-20T02:13:42-05:00",
+                    "product_id": 7891266502834,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GM3002Ruins_CliffsTerrainPrimer-Promopack-2copy_3ef5322e-de35-4920-8dde-8edb9ce7dfb2.jpg?v=1708413222",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280433602738,
+                    "created_at": "2024-02-20T02:13:40-05:00",
+                    "position": 3,
+                    "updated_at": "2024-02-20T02:13:43-05:00",
+                    "product_id": 7891266502834,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GM3002Ruins_CliffsTerrainPrimer-Promopack-3copy_2f1e5576-ce5a-4f0d-8480-4a522030efb1.jpg?v=1708413223",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280433307826,
+                    "created_at": "2024-02-20T02:13:40-05:00",
+                    "position": 4,
+                    "updated_at": "2024-02-20T02:13:43-05:00",
+                    "product_id": 7891266502834,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GM3002Ruins_CliffsTerrainPrimer-Promopack-4copy_ea63d767-d85b-4891-8b38-b6d53aa6698f.jpg?v=1708413223",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280433864882,
+                    "created_at": "2024-02-20T02:13:40-05:00",
+                    "position": 5,
+                    "updated_at": "2024-02-20T02:13:43-05:00",
+                    "product_id": 7891266502834,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GM3002Ruins_CliffsTerrainPrimer-Promopack-5copy_dd085916-82c0-43f1-aab8-ce56312c8eb0.jpg?v=1708413223",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280434094258,
+                    "created_at": "2024-02-20T02:13:40-05:00",
+                    "position": 6,
+                    "updated_at": "2024-02-20T02:13:44-05:00",
+                    "product_id": 7891266502834,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GM3002Ruins_CliffsTerrainPrimer-Promopack-6copy_df013f20-6217-45b6-920e-39be528e2b2f.jpg?v=1708413224",
+                    "width": 1200,
+                    "height": 1200
+                },
+                {
+                    "id": 37280433012914,
+                    "created_at": "2024-02-20T02:13:40-05:00",
+                    "position": 7,
+                    "updated_at": "2024-02-20T02:13:42-05:00",
+                    "product_id": 7891266502834,
+                    "variant_ids":
+                    [],
+                    "src": "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/GM3002Ruins_CliffsTerrainPrimer-Promopack-7copy_add07ab4-fa90-4ec0-b67c-88b90676e6de.jpg?v=1708413222",
+                    "width": 1200,
+                    "height": 1200
+                }
+            ],
+            "options":
+            [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values":
+                    [
+                        "Default Title"
+                    ]
+                }
+            ]
+        }
+    ]
+}

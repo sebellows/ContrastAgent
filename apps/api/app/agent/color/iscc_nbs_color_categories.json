@@ -1,0 +1,2672 @@
+[
+    {
+        "hex": "#FFB5BA",
+        "iscc_nbs_category": "Vivid Pink",
+        "rgb":
+        [
+            255,
+            181,
+            186
+        ]
+    },
+    {
+        "hex": "#EA9399",
+        "iscc_nbs_category": "Strong Pink",
+        "rgb":
+        [
+            234,
+            147,
+            153
+        ]
+    },
+    {
+        "hex": "#E4717A",
+        "iscc_nbs_category": "Deep Pink",
+        "rgb":
+        [
+            228,
+            113,
+            122
+        ]
+    },
+    {
+        "hex": "#F9CCCA",
+        "iscc_nbs_category": "Light Pink",
+        "rgb":
+        [
+            249,
+            204,
+            202
+        ]
+    },
+    {
+        "hex": "#DEA5A4",
+        "iscc_nbs_category": "Moderate Pink",
+        "rgb":
+        [
+            222,
+            165,
+            164
+        ]
+    },
+    {
+        "hex": "#C08081",
+        "iscc_nbs_category": "Dark Pink",
+        "rgb":
+        [
+            192,
+            128,
+            129
+        ]
+    },
+    {
+        "hex": "#EAD8D7",
+        "iscc_nbs_category": "Pale Pink",
+        "rgb":
+        [
+            234,
+            216,
+            215
+        ]
+    },
+    {
+        "hex": "#C4AEAD",
+        "iscc_nbs_category": "Grayish Pink",
+        "rgb":
+        [
+            196,
+            174,
+            173
+        ]
+    },
+    {
+        "hex": "#EAE3E1",
+        "iscc_nbs_category": "Pinkish White",
+        "rgb":
+        [
+            234,
+            227,
+            225
+        ]
+    },
+    {
+        "hex": "#C1B6B3",
+        "iscc_nbs_category": "Pinkish Gray",
+        "rgb":
+        [
+            193,
+            182,
+            179
+        ]
+    },
+    {
+        "hex": "#BE0032",
+        "iscc_nbs_category": "Vivid Red",
+        "rgb":
+        [
+            190,
+            0,
+            50
+        ]
+    },
+    {
+        "hex": "#BC3F4A",
+        "iscc_nbs_category": "Strong Red",
+        "rgb":
+        [
+            188,
+            63,
+            74
+        ]
+    },
+    {
+        "hex": "#841B2D",
+        "iscc_nbs_category": "Deep Red",
+        "rgb":
+        [
+            132,
+            27,
+            45
+        ]
+    },
+    {
+        "hex": "#5C0923",
+        "iscc_nbs_category": "Very Deep Red",
+        "rgb":
+        [
+            92,
+            9,
+            35
+        ]
+    },
+    {
+        "hex": "#AB4E52",
+        "iscc_nbs_category": "Moderate Red",
+        "rgb":
+        [
+            171,
+            78,
+            82
+        ]
+    },
+    {
+        "hex": "#722F37",
+        "iscc_nbs_category": "Dark Red",
+        "rgb":
+        [
+            114,
+            47,
+            55
+        ]
+    },
+    {
+        "hex": "#3F1728",
+        "iscc_nbs_category": "Very Dark Red",
+        "rgb":
+        [
+            63,
+            23,
+            40
+        ]
+    },
+    {
+        "hex": "#AD8884",
+        "iscc_nbs_category": "Light Grayish Red",
+        "rgb":
+        [
+            173,
+            136,
+            132
+        ]
+    },
+    {
+        "hex": "#905D5D",
+        "iscc_nbs_category": "Grayish Red",
+        "rgb":
+        [
+            144,
+            93,
+            93
+        ]
+    },
+    {
+        "hex": "#543D3F",
+        "iscc_nbs_category": "Dark Grayish Red",
+        "rgb":
+        [
+            84,
+            61,
+            63
+        ]
+    },
+    {
+        "hex": "#2E1D21",
+        "iscc_nbs_category": "Blackish Red",
+        "rgb":
+        [
+            46,
+            29,
+            33
+        ]
+    },
+    {
+        "hex": "#8F817F",
+        "iscc_nbs_category": "Reddish Gray",
+        "rgb":
+        [
+            143,
+            129,
+            127
+        ]
+    },
+    {
+        "hex": "#5C504F",
+        "iscc_nbs_category": "Dark Reddish Gray",
+        "rgb":
+        [
+            92,
+            80,
+            79
+        ]
+    },
+    {
+        "hex": "#282022",
+        "iscc_nbs_category": "Reddish Black",
+        "rgb":
+        [
+            40,
+            32,
+            34
+        ]
+    },
+    {
+        "hex": "#FFB7A5",
+        "iscc_nbs_category": "Vivid Yellowish Pink",
+        "rgb":
+        [
+            255,
+            183,
+            165
+        ]
+    },
+    {
+        "hex": "#F99379",
+        "iscc_nbs_category": "Strong Yellowish Pink",
+        "rgb":
+        [
+            249,
+            147,
+            121
+        ]
+    },
+    {
+        "hex": "#E66721",
+        "iscc_nbs_category": "Deep Yellowish Pink",
+        "rgb":
+        [
+            230,
+            103,
+            33
+        ]
+    },
+    {
+        "hex": "#F4C2C2",
+        "iscc_nbs_category": "Light Yellowish Pink",
+        "rgb":
+        [
+            244,
+            194,
+            194
+        ]
+    },
+    {
+        "hex": "#D9A6A9",
+        "iscc_nbs_category": "Moderate Yellowish Pink",
+        "rgb":
+        [
+            217,
+            166,
+            169
+        ]
+    },
+    {
+        "hex": "#C48379",
+        "iscc_nbs_category": "Dark Yellowish Pink",
+        "rgb":
+        [
+            196,
+            131,
+            121
+        ]
+    },
+    {
+        "hex": "#ECD5C5",
+        "iscc_nbs_category": "Pale Yellowish Pink",
+        "rgb":
+        [
+            236,
+            213,
+            197
+        ]
+    },
+    {
+        "hex": "#C7ADA3",
+        "iscc_nbs_category": "Grayish Yellowish Pink",
+        "rgb":
+        [
+            199,
+            173,
+            163
+        ]
+    },
+    {
+        "hex": "#C2AC99",
+        "iscc_nbs_category": "Brownish Pink",
+        "rgb":
+        [
+            194,
+            172,
+            153
+        ]
+    },
+    {
+        "hex": "#E25822",
+        "iscc_nbs_category": "Vivid Reddish Orange",
+        "rgb":
+        [
+            226,
+            88,
+            34
+        ]
+    },
+    {
+        "hex": "#D9603B",
+        "iscc_nbs_category": "Strong Reddish Orange",
+        "rgb":
+        [
+            217,
+            96,
+            59
+        ]
+    },
+    {
+        "hex": "#AA381E",
+        "iscc_nbs_category": "Deep Reddish Orange",
+        "rgb":
+        [
+            170,
+            56,
+            30
+        ]
+    },
+    {
+        "hex": "#CB6D51",
+        "iscc_nbs_category": "Moderate Reddish Orange",
+        "rgb":
+        [
+            203,
+            109,
+            81
+        ]
+    },
+    {
+        "hex": "#9E4732",
+        "iscc_nbs_category": "Dark Reddish Orange",
+        "rgb":
+        [
+            158,
+            71,
+            50
+        ]
+    },
+    {
+        "hex": "#B4745E",
+        "iscc_nbs_category": "Grayish Reddish Orange",
+        "rgb":
+        [
+            180,
+            116,
+            94
+        ]
+    },
+    {
+        "hex": "#882D17",
+        "iscc_nbs_category": "Strong Reddish Brown",
+        "rgb":
+        [
+            136,
+            45,
+            23
+        ]
+    },
+    {
+        "hex": "#56070C",
+        "iscc_nbs_category": "Deep Reddish Brown",
+        "rgb":
+        [
+            86,
+            7,
+            12
+        ]
+    },
+    {
+        "hex": "#A87C6D",
+        "iscc_nbs_category": "Light Reddish Brown",
+        "rgb":
+        [
+            168,
+            124,
+            109
+        ]
+    },
+    {
+        "hex": "#79443B",
+        "iscc_nbs_category": "Moderate Reddish Brown",
+        "rgb":
+        [
+            121,
+            68,
+            59
+        ]
+    },
+    {
+        "hex": "#3E1D1E",
+        "iscc_nbs_category": "Dark Reddish Brown",
+        "rgb":
+        [
+            62,
+            29,
+            30
+        ]
+    },
+    {
+        "hex": "#977F73",
+        "iscc_nbs_category": "Light Grayish Reddish Brown",
+        "rgb":
+        [
+            151,
+            127,
+            115
+        ]
+    },
+    {
+        "hex": "#674C47",
+        "iscc_nbs_category": "Grayish Reddish Brown",
+        "rgb":
+        [
+            103,
+            76,
+            71
+        ]
+    },
+    {
+        "hex": "#43302E",
+        "iscc_nbs_category": "Dark Grayish Reddish Brown",
+        "rgb":
+        [
+            67,
+            48,
+            46
+        ]
+    },
+    {
+        "hex": "#F38400",
+        "iscc_nbs_category": "Vivid Orange",
+        "rgb":
+        [
+            243,
+            132,
+            0
+        ]
+    },
+    {
+        "hex": "#FD943F",
+        "iscc_nbs_category": "Brilliant Orange",
+        "rgb":
+        [
+            253,
+            148,
+            63
+        ]
+    },
+    {
+        "hex": "#ED872D",
+        "iscc_nbs_category": "Strong Orange",
+        "rgb":
+        [
+            237,
+            135,
+            45
+        ]
+    },
+    {
+        "hex": "#BE6516",
+        "iscc_nbs_category": "Deep Orange",
+        "rgb":
+        [
+            190,
+            101,
+            22
+        ]
+    },
+    {
+        "hex": "#FAB57F",
+        "iscc_nbs_category": "Light Orange",
+        "rgb":
+        [
+            250,
+            181,
+            127
+        ]
+    },
+    {
+        "hex": "#D99058",
+        "iscc_nbs_category": "Moderate Orange",
+        "rgb":
+        [
+            217,
+            144,
+            88
+        ]
+    },
+    {
+        "hex": "#AE6938",
+        "iscc_nbs_category": "Brownish Orange",
+        "rgb":
+        [
+            174,
+            105,
+            56
+        ]
+    },
+    {
+        "hex": "#80461B",
+        "iscc_nbs_category": "Strong Brown",
+        "rgb":
+        [
+            128,
+            70,
+            27
+        ]
+    },
+    {
+        "hex": "#593319",
+        "iscc_nbs_category": "Deep Brown",
+        "rgb":
+        [
+            89,
+            51,
+            25
+        ]
+    },
+    {
+        "hex": "#A67B5B",
+        "iscc_nbs_category": "Light Brown",
+        "rgb":
+        [
+            166,
+            123,
+            91
+        ]
+    },
+    {
+        "hex": "#6F4E37",
+        "iscc_nbs_category": "Moderate Brown",
+        "rgb":
+        [
+            111,
+            78,
+            55
+        ]
+    },
+    {
+        "hex": "#422518",
+        "iscc_nbs_category": "Dark Brown",
+        "rgb":
+        [
+            66,
+            37,
+            24
+        ]
+    },
+    {
+        "hex": "#958070",
+        "iscc_nbs_category": "Light Grayish Brown",
+        "rgb":
+        [
+            149,
+            128,
+            112
+        ]
+    },
+    {
+        "hex": "#635147",
+        "iscc_nbs_category": "Grayish Brown",
+        "rgb":
+        [
+            99,
+            81,
+            71
+        ]
+    },
+    {
+        "hex": "#3E322C",
+        "iscc_nbs_category": "Dark Grayish Brown",
+        "rgb":
+        [
+            62,
+            50,
+            44
+        ]
+    },
+    {
+        "hex": "#8E8279",
+        "iscc_nbs_category": "Light Brownish Gray",
+        "rgb":
+        [
+            142,
+            130,
+            121
+        ]
+    },
+    {
+        "hex": "#5B504F",
+        "iscc_nbs_category": "Brownish Gray",
+        "rgb":
+        [
+            91,
+            80,
+            79
+        ]
+    },
+    {
+        "hex": "#28201C",
+        "iscc_nbs_category": "Brownish Black",
+        "rgb":
+        [
+            40,
+            32,
+            28
+        ]
+    },
+    {
+        "hex": "#F6A600",
+        "iscc_nbs_category": "Vivid Orange Yellow",
+        "rgb":
+        [
+            246,
+            166,
+            0
+        ]
+    },
+    {
+        "hex": "#FFC14F",
+        "iscc_nbs_category": "Brilliant Orange Yellow",
+        "rgb":
+        [
+            255,
+            193,
+            79
+        ]
+    },
+    {
+        "hex": "#EAA221",
+        "iscc_nbs_category": "Strong Orange Yellow",
+        "rgb":
+        [
+            234,
+            162,
+            33
+        ]
+    },
+    {
+        "hex": "#C98500",
+        "iscc_nbs_category": "Deep Orange Yellow",
+        "rgb":
+        [
+            201,
+            133,
+            0
+        ]
+    },
+    {
+        "hex": "#FBC97F",
+        "iscc_nbs_category": "Light Orange Yellow",
+        "rgb":
+        [
+            251,
+            201,
+            127
+        ]
+    },
+    {
+        "hex": "#E3A857",
+        "iscc_nbs_category": "Moderate Orange Yellow",
+        "rgb":
+        [
+            227,
+            168,
+            87
+        ]
+    },
+    {
+        "hex": "#BE8A3D",
+        "iscc_nbs_category": "Dark Orange Yellow",
+        "rgb":
+        [
+            190,
+            138,
+            61
+        ]
+    },
+    {
+        "hex": "#FAD6A5",
+        "iscc_nbs_category": "Pale Orange Yellow",
+        "rgb":
+        [
+            250,
+            214,
+            165
+        ]
+    },
+    {
+        "hex": "#996515",
+        "iscc_nbs_category": "Strong Yellowish Brown",
+        "rgb":
+        [
+            153,
+            101,
+            21
+        ]
+    },
+    {
+        "hex": "#654522",
+        "iscc_nbs_category": "Deep Yellowish Brown",
+        "rgb":
+        [
+            101,
+            69,
+            34
+        ]
+    },
+    {
+        "hex": "#C19A6B",
+        "iscc_nbs_category": "Light Yellowish Brown",
+        "rgb":
+        [
+            193,
+            154,
+            107
+        ]
+    },
+    {
+        "hex": "#826644",
+        "iscc_nbs_category": "Moderate Yellowish Brown",
+        "rgb":
+        [
+            130,
+            102,
+            68
+        ]
+    },
+    {
+        "hex": "#4B3621",
+        "iscc_nbs_category": "Dark Yellowish Brown",
+        "rgb":
+        [
+            75,
+            54,
+            33
+        ]
+    },
+    {
+        "hex": "#AE9B82",
+        "iscc_nbs_category": "Light Grayish Yellowish Brown",
+        "rgb":
+        [
+            174,
+            155,
+            130
+        ]
+    },
+    {
+        "hex": "#7E6D5A",
+        "iscc_nbs_category": "Grayish Yellowish Brown",
+        "rgb":
+        [
+            126,
+            109,
+            90
+        ]
+    },
+    {
+        "hex": "#483C32",
+        "iscc_nbs_category": "Dark Grayish Yellowish Brown",
+        "rgb":
+        [
+            72,
+            60,
+            50
+        ]
+    },
+    {
+        "hex": "#F3C300",
+        "iscc_nbs_category": "Vivid Yellow",
+        "rgb":
+        [
+            243,
+            195,
+            0
+        ]
+    },
+    {
+        "hex": "#FADA5E",
+        "iscc_nbs_category": "Brilliant Yellow",
+        "rgb":
+        [
+            250,
+            218,
+            94
+        ]
+    },
+    {
+        "hex": "#D4AF37",
+        "iscc_nbs_category": "Strong Yellow",
+        "rgb":
+        [
+            212,
+            175,
+            55
+        ]
+    },
+    {
+        "hex": "#AF8D13",
+        "iscc_nbs_category": "Deep Yellow",
+        "rgb":
+        [
+            175,
+            141,
+            19
+        ]
+    },
+    {
+        "hex": "#F8DE7E",
+        "iscc_nbs_category": "Light Yellow",
+        "rgb":
+        [
+            248,
+            222,
+            126
+        ]
+    },
+    {
+        "hex": "#C9AE5D",
+        "iscc_nbs_category": "Moderate Yellow",
+        "rgb":
+        [
+            201,
+            174,
+            93
+        ]
+    },
+    {
+        "hex": "#AB9144",
+        "iscc_nbs_category": "Dark Yellow",
+        "rgb":
+        [
+            171,
+            145,
+            68
+        ]
+    },
+    {
+        "hex": "#F3E5AB",
+        "iscc_nbs_category": "Pale Yellow",
+        "rgb":
+        [
+            243,
+            229,
+            171
+        ]
+    },
+    {
+        "hex": "#C2B280",
+        "iscc_nbs_category": "Grayish Yellow",
+        "rgb":
+        [
+            194,
+            178,
+            128
+        ]
+    },
+    {
+        "hex": "#A18F60",
+        "iscc_nbs_category": "Dark Grayish Yellow",
+        "rgb":
+        [
+            161,
+            143,
+            96
+        ]
+    },
+    {
+        "hex": "#F0EAD6",
+        "iscc_nbs_category": "Yellowish White",
+        "rgb":
+        [
+            240,
+            234,
+            214
+        ]
+    },
+    {
+        "hex": "#BFB8A5",
+        "iscc_nbs_category": "Yellowish Gray",
+        "rgb":
+        [
+            191,
+            184,
+            165
+        ]
+    },
+    {
+        "hex": "#967117",
+        "iscc_nbs_category": "Light Olive Brown",
+        "rgb":
+        [
+            150,
+            113,
+            23
+        ]
+    },
+    {
+        "hex": "#6C541E",
+        "iscc_nbs_category": "Moderate Olive Brown",
+        "rgb":
+        [
+            108,
+            84,
+            30
+        ]
+    },
+    {
+        "hex": "#3B3121",
+        "iscc_nbs_category": "Dark Olive Brown",
+        "rgb":
+        [
+            59,
+            49,
+            33
+        ]
+    },
+    {
+        "hex": "#DCD300",
+        "iscc_nbs_category": "Vivid Greenish Yellow",
+        "rgb":
+        [
+            220,
+            211,
+            0
+        ]
+    },
+    {
+        "hex": "#E9E450",
+        "iscc_nbs_category": "Brilliant Greenish Yellow",
+        "rgb":
+        [
+            233,
+            228,
+            80
+        ]
+    },
+    {
+        "hex": "#BEB72E",
+        "iscc_nbs_category": "Strong Greenish Yellow",
+        "rgb":
+        [
+            190,
+            183,
+            46
+        ]
+    },
+    {
+        "hex": "#9B9400",
+        "iscc_nbs_category": "Deep Greenish Yellow",
+        "rgb":
+        [
+            155,
+            148,
+            0
+        ]
+    },
+    {
+        "hex": "#EAE679",
+        "iscc_nbs_category": "Light Greenish Yellow",
+        "rgb":
+        [
+            234,
+            230,
+            121
+        ]
+    },
+    {
+        "hex": "#B9B459",
+        "iscc_nbs_category": "Moderate Greenish Yellow",
+        "rgb":
+        [
+            185,
+            180,
+            89
+        ]
+    },
+    {
+        "hex": "#98943E",
+        "iscc_nbs_category": "Dark Greenish Yellow",
+        "rgb":
+        [
+            152,
+            148,
+            62
+        ]
+    },
+    {
+        "hex": "#EBE8A4",
+        "iscc_nbs_category": "Pale Greenish Yellow",
+        "rgb":
+        [
+            235,
+            232,
+            164
+        ]
+    },
+    {
+        "hex": "#B9B57D",
+        "iscc_nbs_category": "Grayish Greenish Yellow",
+        "rgb":
+        [
+            185,
+            181,
+            125
+        ]
+    },
+    {
+        "hex": "#867E36",
+        "iscc_nbs_category": "Light Olive",
+        "rgb":
+        [
+            134,
+            126,
+            54
+        ]
+    },
+    {
+        "hex": "#665D1E",
+        "iscc_nbs_category": "Moderate Olive",
+        "rgb":
+        [
+            102,
+            93,
+            30
+        ]
+    },
+    {
+        "hex": "#403D21",
+        "iscc_nbs_category": "Dark Olive",
+        "rgb":
+        [
+            64,
+            61,
+            33
+        ]
+    },
+    {
+        "hex": "#8C8767",
+        "iscc_nbs_category": "Light Grayish Olive",
+        "rgb":
+        [
+            140,
+            135,
+            103
+        ]
+    },
+    {
+        "hex": "#5B5842",
+        "iscc_nbs_category": "Grayish Olive",
+        "rgb":
+        [
+            91,
+            88,
+            66
+        ]
+    },
+    {
+        "hex": "#363527",
+        "iscc_nbs_category": "Dark Grayish Olive",
+        "rgb":
+        [
+            54,
+            53,
+            39
+        ]
+    },
+    {
+        "hex": "#8A8776",
+        "iscc_nbs_category": "Light Olive Gray",
+        "rgb":
+        [
+            138,
+            135,
+            118
+        ]
+    },
+    {
+        "hex": "#57554C",
+        "iscc_nbs_category": "Olive Gray",
+        "rgb":
+        [
+            87,
+            85,
+            76
+        ]
+    },
+    {
+        "hex": "#25241D",
+        "iscc_nbs_category": "Olive Black",
+        "rgb":
+        [
+            37,
+            36,
+            29
+        ]
+    },
+    {
+        "hex": "#8DB600",
+        "iscc_nbs_category": "Vivid Yellow Green",
+        "rgb":
+        [
+            141,
+            182,
+            0
+        ]
+    },
+    {
+        "hex": "#BDDA57",
+        "iscc_nbs_category": "Brilliant Yellow Green",
+        "rgb":
+        [
+            189,
+            218,
+            87
+        ]
+    },
+    {
+        "hex": "#7E9F2E",
+        "iscc_nbs_category": "Strong Yellow Green",
+        "rgb":
+        [
+            126,
+            159,
+            46
+        ]
+    },
+    {
+        "hex": "#467129",
+        "iscc_nbs_category": "Deep Yellow Green",
+        "rgb":
+        [
+            70,
+            113,
+            41
+        ]
+    },
+    {
+        "hex": "#C9DC89",
+        "iscc_nbs_category": "Light Yellow Green",
+        "rgb":
+        [
+            201,
+            220,
+            137
+        ]
+    },
+    {
+        "hex": "#8A9A5B",
+        "iscc_nbs_category": "Moderate Yellow Green",
+        "rgb":
+        [
+            138,
+            154,
+            91
+        ]
+    },
+    {
+        "hex": "#DADFB7",
+        "iscc_nbs_category": "Pale Yellow Green",
+        "rgb":
+        [
+            218,
+            223,
+            183
+        ]
+    },
+    {
+        "hex": "#8F9779",
+        "iscc_nbs_category": "Grayish Yellow Green",
+        "rgb":
+        [
+            143,
+            151,
+            121
+        ]
+    },
+    {
+        "hex": "#404F00",
+        "iscc_nbs_category": "Strong Olive Green",
+        "rgb":
+        [
+            64,
+            79,
+            0
+        ]
+    },
+    {
+        "hex": "#232F00",
+        "iscc_nbs_category": "Deep Olive Green",
+        "rgb":
+        [
+            35,
+            47,
+            0
+        ]
+    },
+    {
+        "hex": "#4A5D23",
+        "iscc_nbs_category": "Moderate Olive Green",
+        "rgb":
+        [
+            74,
+            93,
+            35
+        ]
+    },
+    {
+        "hex": "#2B3D26",
+        "iscc_nbs_category": "Dark Olive Green",
+        "rgb":
+        [
+            43,
+            61,
+            38
+        ]
+    },
+    {
+        "hex": "#515744",
+        "iscc_nbs_category": "Grayish Olive Green",
+        "rgb":
+        [
+            81,
+            87,
+            68
+        ]
+    },
+    {
+        "hex": "#31362B",
+        "iscc_nbs_category": "Dark Grayish Olive Green",
+        "rgb":
+        [
+            49,
+            54,
+            43
+        ]
+    },
+    {
+        "hex": "#27A64C",
+        "iscc_nbs_category": "Vivid Yellowish Green",
+        "rgb":
+        [
+            39,
+            166,
+            76
+        ]
+    },
+    {
+        "hex": "#83D37D",
+        "iscc_nbs_category": "Brilliant Yellowish Green",
+        "rgb":
+        [
+            131,
+            211,
+            125
+        ]
+    },
+    {
+        "hex": "#44944A",
+        "iscc_nbs_category": "Strong Yellowish Green",
+        "rgb":
+        [
+            68,
+            148,
+            74
+        ]
+    },
+    {
+        "hex": "#00622D",
+        "iscc_nbs_category": "Deep Yellowish Green",
+        "rgb":
+        [
+            0,
+            98,
+            45
+        ]
+    },
+    {
+        "hex": "#003118",
+        "iscc_nbs_category": "Very Deep Yellowish Green",
+        "rgb":
+        [
+            0,
+            49,
+            24
+        ]
+    },
+    {
+        "hex": "#B6E5AF",
+        "iscc_nbs_category": "Very Light Yellowish Green",
+        "rgb":
+        [
+            182,
+            229,
+            175
+        ]
+    },
+    {
+        "hex": "#93C592",
+        "iscc_nbs_category": "Light Yellowish Green",
+        "rgb":
+        [
+            147,
+            197,
+            146
+        ]
+    },
+    {
+        "hex": "#679267",
+        "iscc_nbs_category": "Moderate Yellowish Green",
+        "rgb":
+        [
+            103,
+            146,
+            103
+        ]
+    },
+    {
+        "hex": "#355E3B",
+        "iscc_nbs_category": "Dark Yellowish Green",
+        "rgb":
+        [
+            53,
+            94,
+            59
+        ]
+    },
+    {
+        "hex": "#173620",
+        "iscc_nbs_category": "Very Dark Yellowish Green",
+        "rgb":
+        [
+            23,
+            54,
+            32
+        ]
+    },
+    {
+        "hex": "#008856",
+        "iscc_nbs_category": "Vivid Green",
+        "rgb":
+        [
+            0,
+            136,
+            86
+        ]
+    },
+    {
+        "hex": "#3EB489",
+        "iscc_nbs_category": "Brilliant Green",
+        "rgb":
+        [
+            62,
+            180,
+            137
+        ]
+    },
+    {
+        "hex": "#007959",
+        "iscc_nbs_category": "Strong Green",
+        "rgb":
+        [
+            0,
+            121,
+            89
+        ]
+    },
+    {
+        "hex": "#00543D",
+        "iscc_nbs_category": "Deep Green",
+        "rgb":
+        [
+            0,
+            84,
+            61
+        ]
+    },
+    {
+        "hex": "#8ED1B2",
+        "iscc_nbs_category": "Very Light Green",
+        "rgb":
+        [
+            142,
+            209,
+            178
+        ]
+    },
+    {
+        "hex": "#6AAB8E",
+        "iscc_nbs_category": "Light Green",
+        "rgb":
+        [
+            106,
+            171,
+            142
+        ]
+    },
+    {
+        "hex": "#3B7861",
+        "iscc_nbs_category": "Moderate Green",
+        "rgb":
+        [
+            59,
+            120,
+            97
+        ]
+    },
+    {
+        "hex": "#1B4D3E",
+        "iscc_nbs_category": "Dark Green",
+        "rgb":
+        [
+            27,
+            77,
+            62
+        ]
+    },
+    {
+        "hex": "#1C352D",
+        "iscc_nbs_category": "Very Dark Green",
+        "rgb":
+        [
+            28,
+            53,
+            45
+        ]
+    },
+    {
+        "hex": "#C7E6D7",
+        "iscc_nbs_category": "Very Pale Green",
+        "rgb":
+        [
+            199,
+            230,
+            215
+        ]
+    },
+    {
+        "hex": "#8DA399",
+        "iscc_nbs_category": "Pale Green",
+        "rgb":
+        [
+            141,
+            163,
+            153
+        ]
+    },
+    {
+        "hex": "#5E716A",
+        "iscc_nbs_category": "Grayish Green",
+        "rgb":
+        [
+            94,
+            113,
+            106
+        ]
+    },
+    {
+        "hex": "#3A4B47",
+        "iscc_nbs_category": "Dark Grayish Green",
+        "rgb":
+        [
+            58,
+            75,
+            71
+        ]
+    },
+    {
+        "hex": "#1A2421",
+        "iscc_nbs_category": "Blackish Green",
+        "rgb":
+        [
+            26,
+            36,
+            33
+        ]
+    },
+    {
+        "hex": "#DFEDE8",
+        "iscc_nbs_category": "Greenish White",
+        "rgb":
+        [
+            223,
+            237,
+            232
+        ]
+    },
+    {
+        "hex": "#B2BEB5",
+        "iscc_nbs_category": "Light Greenish Gray",
+        "rgb":
+        [
+            178,
+            190,
+            181
+        ]
+    },
+    {
+        "hex": "#7D8984",
+        "iscc_nbs_category": "Greenish Gray",
+        "rgb":
+        [
+            125,
+            137,
+            132
+        ]
+    },
+    {
+        "hex": "#4E5755",
+        "iscc_nbs_category": "Dark Greenish Gray",
+        "rgb":
+        [
+            78,
+            87,
+            85
+        ]
+    },
+    {
+        "hex": "#1E2321",
+        "iscc_nbs_category": "Greenish Black",
+        "rgb":
+        [
+            30,
+            35,
+            33
+        ]
+    },
+    {
+        "hex": "#008882",
+        "iscc_nbs_category": "Vivid Bluish Green",
+        "rgb":
+        [
+            0,
+            136,
+            130
+        ]
+    },
+    {
+        "hex": "#00A693",
+        "iscc_nbs_category": "Brilliant Bluish Green",
+        "rgb":
+        [
+            0,
+            166,
+            147
+        ]
+    },
+    {
+        "hex": "#007A74",
+        "iscc_nbs_category": "Strong Bluish Green",
+        "rgb":
+        [
+            0,
+            122,
+            116
+        ]
+    },
+    {
+        "hex": "#00443F",
+        "iscc_nbs_category": "Deep Bluish Green",
+        "rgb":
+        [
+            0,
+            68,
+            63
+        ]
+    },
+    {
+        "hex": "#96DED1",
+        "iscc_nbs_category": "Very Light Bluish Green",
+        "rgb":
+        [
+            150,
+            222,
+            209
+        ]
+    },
+    {
+        "hex": "#66ADA4",
+        "iscc_nbs_category": "Light Bluish Green",
+        "rgb":
+        [
+            102,
+            173,
+            164
+        ]
+    },
+    {
+        "hex": "#317873",
+        "iscc_nbs_category": "Moderate Bluish Green",
+        "rgb":
+        [
+            49,
+            120,
+            115
+        ]
+    },
+    {
+        "hex": "#004B49",
+        "iscc_nbs_category": "Dark Bluish Green",
+        "rgb":
+        [
+            0,
+            75,
+            73
+        ]
+    },
+    {
+        "hex": "#002A29",
+        "iscc_nbs_category": "Very Dark Bluish Green",
+        "rgb":
+        [
+            0,
+            42,
+            41
+        ]
+    },
+    {
+        "hex": "#0085A1",
+        "iscc_nbs_category": "Vivid Greenish Blue",
+        "rgb":
+        [
+            0,
+            133,
+            161
+        ]
+    },
+    {
+        "hex": "#239EBA",
+        "iscc_nbs_category": "Brilliant Greenish Blue",
+        "rgb":
+        [
+            35,
+            158,
+            186
+        ]
+    },
+    {
+        "hex": "#007791",
+        "iscc_nbs_category": "Strong Greenish Blue",
+        "rgb":
+        [
+            0,
+            119,
+            145
+        ]
+    },
+    {
+        "hex": "#2E8495",
+        "iscc_nbs_category": "Deep Greenish Blue",
+        "rgb":
+        [
+            46,
+            132,
+            149
+        ]
+    },
+    {
+        "hex": "#9CD1DC",
+        "iscc_nbs_category": "Very Light Greenish Blue",
+        "rgb":
+        [
+            156,
+            209,
+            220
+        ]
+    },
+    {
+        "hex": "#66AABC",
+        "iscc_nbs_category": "Light Greenish Blue",
+        "rgb":
+        [
+            102,
+            170,
+            188
+        ]
+    },
+    {
+        "hex": "#367588",
+        "iscc_nbs_category": "Moderate Greenish Blue",
+        "rgb":
+        [
+            54,
+            117,
+            136
+        ]
+    },
+    {
+        "hex": "#004958",
+        "iscc_nbs_category": "Dark Greenish Blue",
+        "rgb":
+        [
+            0,
+            73,
+            88
+        ]
+    },
+    {
+        "hex": "#002E3B",
+        "iscc_nbs_category": "Very Dark Greenish Blue",
+        "rgb":
+        [
+            0,
+            46,
+            59
+        ]
+    },
+    {
+        "hex": "#00A1C2",
+        "iscc_nbs_category": "Vivid Blue",
+        "rgb":
+        [
+            0,
+            161,
+            194
+        ]
+    },
+    {
+        "hex": "#4997D0",
+        "iscc_nbs_category": "Brilliant Blue",
+        "rgb":
+        [
+            73,
+            151,
+            208
+        ]
+    },
+    {
+        "hex": "#0067A5",
+        "iscc_nbs_category": "Strong Blue",
+        "rgb":
+        [
+            0,
+            103,
+            165
+        ]
+    },
+    {
+        "hex": "#00416A",
+        "iscc_nbs_category": "Deep Blue",
+        "rgb":
+        [
+            0,
+            65,
+            106
+        ]
+    },
+    {
+        "hex": "#A1CAF1",
+        "iscc_nbs_category": "Very Light Blue",
+        "rgb":
+        [
+            161,
+            202,
+            241
+        ]
+    },
+    {
+        "hex": "#70A3CC",
+        "iscc_nbs_category": "Light Blue",
+        "rgb":
+        [
+            112,
+            163,
+            204
+        ]
+    },
+    {
+        "hex": "#436B95",
+        "iscc_nbs_category": "Moderate Blue",
+        "rgb":
+        [
+            67,
+            107,
+            149
+        ]
+    },
+    {
+        "hex": "#00304E",
+        "iscc_nbs_category": "Dark Blue",
+        "rgb":
+        [
+            0,
+            48,
+            78
+        ]
+    },
+    {
+        "hex": "#BCD4E6",
+        "iscc_nbs_category": "Very Pale Blue",
+        "rgb":
+        [
+            188,
+            212,
+            230
+        ]
+    },
+    {
+        "hex": "#91A3B0",
+        "iscc_nbs_category": "Pale Blue",
+        "rgb":
+        [
+            145,
+            163,
+            176
+        ]
+    },
+    {
+        "hex": "#536878",
+        "iscc_nbs_category": "Grayish Blue",
+        "rgb":
+        [
+            83,
+            104,
+            120
+        ]
+    },
+    {
+        "hex": "#36454F",
+        "iscc_nbs_category": "Dark Grayish Blue",
+        "rgb":
+        [
+            54,
+            69,
+            79
+        ]
+    },
+    {
+        "hex": "#202830",
+        "iscc_nbs_category": "Blackish Blue",
+        "rgb":
+        [
+            32,
+            40,
+            48
+        ]
+    },
+    {
+        "hex": "#E9E9ED",
+        "iscc_nbs_category": "Bluish White",
+        "rgb":
+        [
+            233,
+            233,
+            237
+        ]
+    },
+    {
+        "hex": "#B4BCC0",
+        "iscc_nbs_category": "Light Bluish Gray",
+        "rgb":
+        [
+            180,
+            188,
+            192
+        ]
+    },
+    {
+        "hex": "#81878B",
+        "iscc_nbs_category": "Bluish Gray",
+        "rgb":
+        [
+            129,
+            135,
+            139
+        ]
+    },
+    {
+        "hex": "#51585E",
+        "iscc_nbs_category": "Dark Bluish Gray",
+        "rgb":
+        [
+            81,
+            88,
+            94
+        ]
+    },
+    {
+        "hex": "#202428",
+        "iscc_nbs_category": "Bluish Black",
+        "rgb":
+        [
+            32,
+            36,
+            40
+        ]
+    },
+    {
+        "hex": "#30267A",
+        "iscc_nbs_category": "Vivid Purplish Blue",
+        "rgb":
+        [
+            48,
+            38,
+            122
+        ]
+    },
+    {
+        "hex": "#6C79B8",
+        "iscc_nbs_category": "Brilliant Purplish Blue",
+        "rgb":
+        [
+            108,
+            121,
+            184
+        ]
+    },
+    {
+        "hex": "#545AA7",
+        "iscc_nbs_category": "Strong Purplish Blue",
+        "rgb":
+        [
+            84,
+            90,
+            167
+        ]
+    },
+    {
+        "hex": "#272458",
+        "iscc_nbs_category": "Deep Purplish Blue",
+        "rgb":
+        [
+            39,
+            36,
+            88
+        ]
+    },
+    {
+        "hex": "#B3BCE2",
+        "iscc_nbs_category": "Very Light Purplish Blue",
+        "rgb":
+        [
+            179,
+            188,
+            226
+        ]
+    },
+    {
+        "hex": "#8791BF",
+        "iscc_nbs_category": "Light Purplish Blue",
+        "rgb":
+        [
+            135,
+            145,
+            191
+        ]
+    },
+    {
+        "hex": "#4E5180",
+        "iscc_nbs_category": "Moderate Purplish Blue",
+        "rgb":
+        [
+            78,
+            81,
+            128
+        ]
+    },
+    {
+        "hex": "#252440",
+        "iscc_nbs_category": "Dark Purplish Blue",
+        "rgb":
+        [
+            37,
+            36,
+            64
+        ]
+    },
+    {
+        "hex": "#C0C8E1",
+        "iscc_nbs_category": "Very Pale Purplish Blue",
+        "rgb":
+        [
+            192,
+            200,
+            225
+        ]
+    },
+    {
+        "hex": "#8C92AC",
+        "iscc_nbs_category": "Pale Purplish Blue",
+        "rgb":
+        [
+            140,
+            146,
+            172
+        ]
+    },
+    {
+        "hex": "#4C516D",
+        "iscc_nbs_category": "Grayish Purplish Blue",
+        "rgb":
+        [
+            76,
+            81,
+            109
+        ]
+    },
+    {
+        "hex": "#9065CA",
+        "iscc_nbs_category": "Vivid Violet",
+        "rgb":
+        [
+            144,
+            101,
+            202
+        ]
+    },
+    {
+        "hex": "#7E73B8",
+        "iscc_nbs_category": "Brilliant Violet",
+        "rgb":
+        [
+            126,
+            115,
+            184
+        ]
+    },
+    {
+        "hex": "#604E97",
+        "iscc_nbs_category": "Strong Violet",
+        "rgb":
+        [
+            96,
+            78,
+            151
+        ]
+    },
+    {
+        "hex": "#32174D",
+        "iscc_nbs_category": "Deep Violet",
+        "rgb":
+        [
+            50,
+            23,
+            77
+        ]
+    },
+    {
+        "hex": "#DCD0FF",
+        "iscc_nbs_category": "Very Light Violet",
+        "rgb":
+        [
+            220,
+            208,
+            255
+        ]
+    },
+    {
+        "hex": "#8C82B6",
+        "iscc_nbs_category": "Light Violet",
+        "rgb":
+        [
+            140,
+            130,
+            182
+        ]
+    },
+    {
+        "hex": "#604E81",
+        "iscc_nbs_category": "Moderate Violet",
+        "rgb":
+        [
+            96,
+            78,
+            129
+        ]
+    },
+    {
+        "hex": "#2F2140",
+        "iscc_nbs_category": "Dark Violet",
+        "rgb":
+        [
+            47,
+            33,
+            64
+        ]
+    },
+    {
+        "hex": "#C4C3DD",
+        "iscc_nbs_category": "Very Pale Violet",
+        "rgb":
+        [
+            196,
+            195,
+            221
+        ]
+    },
+    {
+        "hex": "#9690AB",
+        "iscc_nbs_category": "Pale Violet",
+        "rgb":
+        [
+            150,
+            144,
+            171
+        ]
+    },
+    {
+        "hex": "#554C69",
+        "iscc_nbs_category": "Grayish Violet",
+        "rgb":
+        [
+            85,
+            76,
+            105
+        ]
+    },
+    {
+        "hex": "#9A4EAE",
+        "iscc_nbs_category": "Vivid Purple",
+        "rgb":
+        [
+            154,
+            78,
+            174
+        ]
+    },
+    {
+        "hex": "#D399E6",
+        "iscc_nbs_category": "Brilliant Purple",
+        "rgb":
+        [
+            211,
+            153,
+            230
+        ]
+    },
+    {
+        "hex": "#875692",
+        "iscc_nbs_category": "Strong Purple",
+        "rgb":
+        [
+            135,
+            86,
+            146
+        ]
+    },
+    {
+        "hex": "#602F6B",
+        "iscc_nbs_category": "Deep Purple",
+        "rgb":
+        [
+            96,
+            47,
+            107
+        ]
+    },
+    {
+        "hex": "#401A4C",
+        "iscc_nbs_category": "Very Deep Purple",
+        "rgb":
+        [
+            64,
+            26,
+            76
+        ]
+    },
+    {
+        "hex": "#D5BADB",
+        "iscc_nbs_category": "Very Light Purple",
+        "rgb":
+        [
+            213,
+            186,
+            219
+        ]
+    },
+    {
+        "hex": "#B695C0",
+        "iscc_nbs_category": "Light Purple",
+        "rgb":
+        [
+            182,
+            149,
+            192
+        ]
+    },
+    {
+        "hex": "#86608E",
+        "iscc_nbs_category": "Moderate Purple",
+        "rgb":
+        [
+            134,
+            96,
+            142
+        ]
+    },
+    {
+        "hex": "#563C5C",
+        "iscc_nbs_category": "Dark Purple",
+        "rgb":
+        [
+            86,
+            60,
+            92
+        ]
+    },
+    {
+        "hex": "#301934",
+        "iscc_nbs_category": "Very Dark Purple",
+        "rgb":
+        [
+            48,
+            25,
+            52
+        ]
+    },
+    {
+        "hex": "#D6CADD",
+        "iscc_nbs_category": "Very Pale Purple",
+        "rgb":
+        [
+            214,
+            202,
+            221
+        ]
+    },
+    {
+        "hex": "#AA98A9",
+        "iscc_nbs_category": "Pale Purple",
+        "rgb":
+        [
+            170,
+            152,
+            169
+        ]
+    },
+    {
+        "hex": "#796878",
+        "iscc_nbs_category": "Grayish Purple",
+        "rgb":
+        [
+            121,
+            104,
+            120
+        ]
+    },
+    {
+        "hex": "#50404D",
+        "iscc_nbs_category": "Dark Grayish Purple",
+        "rgb":
+        [
+            80,
+            64,
+            77
+        ]
+    },
+    {
+        "hex": "#291E29",
+        "iscc_nbs_category": "Blackish Purple",
+        "rgb":
+        [
+            41,
+            30,
+            41
+        ]
+    },
+    {
+        "hex": "#E8E3E5",
+        "iscc_nbs_category": "Purplish White",
+        "rgb":
+        [
+            232,
+            227,
+            229
+        ]
+    },
+    {
+        "hex": "#BFB9BD",
+        "iscc_nbs_category": "Light Purplish Gray",
+        "rgb":
+        [
+            191,
+            185,
+            189
+        ]
+    },
+    {
+        "hex": "#8B8589",
+        "iscc_nbs_category": "Purplish Gray",
+        "rgb":
+        [
+            139,
+            133,
+            137
+        ]
+    },
+    {
+        "hex": "#5D555B",
+        "iscc_nbs_category": "Dark Purplish Gray",
+        "rgb":
+        [
+            93,
+            85,
+            91
+        ]
+    },
+    {
+        "hex": "#242124",
+        "iscc_nbs_category": "Purplish Black",
+        "rgb":
+        [
+            36,
+            33,
+            36
+        ]
+    },
+    {
+        "hex": "#870074",
+        "iscc_nbs_category": "Vivid Reddish Purple",
+        "rgb":
+        [
+            135,
+            0,
+            116
+        ]
+    },
+    {
+        "hex": "#9E4F88",
+        "iscc_nbs_category": "Strong Reddish Purple",
+        "rgb":
+        [
+            158,
+            79,
+            136
+        ]
+    },
+    {
+        "hex": "#702963",
+        "iscc_nbs_category": "Deep Reddish Purple",
+        "rgb":
+        [
+            112,
+            41,
+            99
+        ]
+    },
+    {
+        "hex": "#54194E",
+        "iscc_nbs_category": "Very Deep Reddish Purple",
+        "rgb":
+        [
+            84,
+            25,
+            78
+        ]
+    },
+    {
+        "hex": "#B784A7",
+        "iscc_nbs_category": "Light Reddish Purple",
+        "rgb":
+        [
+            183,
+            132,
+            167
+        ]
+    },
+    {
+        "hex": "#915C83",
+        "iscc_nbs_category": "Moderate Reddish Purple",
+        "rgb":
+        [
+            145,
+            92,
+            131
+        ]
+    },
+    {
+        "hex": "#5D3954",
+        "iscc_nbs_category": "Dark Reddish Purple",
+        "rgb":
+        [
+            93,
+            57,
+            84
+        ]
+    },
+    {
+        "hex": "#341731",
+        "iscc_nbs_category": "Very Dark Reddish Purple",
+        "rgb":
+        [
+            52,
+            23,
+            49
+        ]
+    },
+    {
+        "hex": "#AA8A9E",
+        "iscc_nbs_category": "Pale Reddish Purple",
+        "rgb":
+        [
+            170,
+            138,
+            158
+        ]
+    },
+    {
+        "hex": "#836479",
+        "iscc_nbs_category": "Grayish Reddish Purple",
+        "rgb":
+        [
+            131,
+            100,
+            121
+        ]
+    },
+    {
+        "hex": "#FFC8D6",
+        "iscc_nbs_category": "Brilliant Purplish Pink",
+        "rgb":
+        [
+            255,
+            200,
+            214
+        ]
+    },
+    {
+        "hex": "#E68FAC",
+        "iscc_nbs_category": "Strong Purplish Pink",
+        "rgb":
+        [
+            230,
+            143,
+            172
+        ]
+    },
+    {
+        "hex": "#DE6FA1",
+        "iscc_nbs_category": "Deep Purplish Pink",
+        "rgb":
+        [
+            222,
+            111,
+            161
+        ]
+    },
+    {
+        "hex": "#EFBBCC",
+        "iscc_nbs_category": "Light Purplish Pink",
+        "rgb":
+        [
+            239,
+            187,
+            204
+        ]
+    },
+    {
+        "hex": "#D597AE",
+        "iscc_nbs_category": "Moderate Purplish Pink",
+        "rgb":
+        [
+            213,
+            151,
+            174
+        ]
+    },
+    {
+        "hex": "#C17E91",
+        "iscc_nbs_category": "Dark Purplish Pink",
+        "rgb":
+        [
+            193,
+            126,
+            145
+        ]
+    },
+    {
+        "hex": "#E8CCD7",
+        "iscc_nbs_category": "Pale Purplish Pink",
+        "rgb":
+        [
+            232,
+            204,
+            215
+        ]
+    },
+    {
+        "hex": "#C3A6B1",
+        "iscc_nbs_category": "Grayish Purplish Pink",
+        "rgb":
+        [
+            195,
+            166,
+            177
+        ]
+    },
+    {
+        "hex": "#CE4676",
+        "iscc_nbs_category": "Vivid Purplish Red",
+        "rgb":
+        [
+            206,
+            70,
+            118
+        ]
+    },
+    {
+        "hex": "#B3446C",
+        "iscc_nbs_category": "Strong Purplish Red",
+        "rgb":
+        [
+            179,
+            68,
+            108
+        ]
+    },
+    {
+        "hex": "#78184A",
+        "iscc_nbs_category": "Deep Purplish Red",
+        "rgb":
+        [
+            120,
+            24,
+            74
+        ]
+    },
+    {
+        "hex": "#54133B",
+        "iscc_nbs_category": "Very Deep Purplish Red",
+        "rgb":
+        [
+            84,
+            19,
+            59
+        ]
+    },
+    {
+        "hex": "#A8516E",
+        "iscc_nbs_category": "Moderate Purplish Red",
+        "rgb":
+        [
+            168,
+            81,
+            110
+        ]
+    },
+    {
+        "hex": "#673147",
+        "iscc_nbs_category": "Dark Purplish Red",
+        "rgb":
+        [
+            103,
+            49,
+            71
+        ]
+    },
+    {
+        "hex": "#38152C",
+        "iscc_nbs_category": "Very Dark Purplish Red",
+        "rgb":
+        [
+            56,
+            21,
+            44
+        ]
+    },
+    {
+        "hex": "#AF868E",
+        "iscc_nbs_category": "Light Grayish Purplish Red",
+        "rgb":
+        [
+            175,
+            134,
+            142
+        ]
+    },
+    {
+        "hex": "#915F6D",
+        "iscc_nbs_category": "Grayish Purplish Red",
+        "rgb":
+        [
+            145,
+            95,
+            109
+        ]
+    },
+    {
+        "hex": "#F2F3F4",
+        "iscc_nbs_category": "White",
+        "rgb":
+        [
+            242,
+            243,
+            244
+        ]
+    },
+    {
+        "hex": "#B9B8B5",
+        "iscc_nbs_category": "Light Gray",
+        "rgb":
+        [
+            185,
+            184,
+            181
+        ]
+    },
+    {
+        "hex": "#848482",
+        "iscc_nbs_category": "Medium Gray",
+        "rgb":
+        [
+            132,
+            132,
+            130
+        ]
+    },
+    {
+        "hex": "#555555",
+        "iscc_nbs_category": "Dark Gray",
+        "rgb":
+        [
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "hex": "#222222",
+        "iscc_nbs_category": "Black",
+        "rgb":
+        [
+            34,
+            34,
+            34
+        ]
+    }
+]

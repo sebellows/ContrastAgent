@@ -7,7 +7,7 @@
 
       <div class="flex items-center justify-end relative h-full flex-1 transition-transform ease-in-out duration-300">
         <div class="flex items-center justify-between rounded-3xl relative ml-4 mr-6 w-full h-14 bg-black/15 dark:bg-white/15">
-          <ui-autocomplete
+          <UiAutocomplete
             ref="gridAutocomplete"
             class="w-full h-full"
             label="Auto Complete"

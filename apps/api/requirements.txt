@@ -1,0 +1,16 @@
+arq
+async-lru
+asyncpg
+fastapi
+fastapi-filter
+fastcrud
+httpx
+pandas
+parsel
+postgres
+pydantic
+pydantic-settings
+redis-py
+sqlalchemy
+sqlalchemy-utils
+uvicorn

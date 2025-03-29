@@ -1,0 +1,22 @@
+requires = ["tox>=4"]
+env_list = ["format", "type", "3.13", "3.12"]
+skipsdist = true
+
+[env_run_base]
+description = "Run test under {base_python}"
+deps = [
+    "pytest>=8",
+    "pytest-sugar",
+]
+commands = [[ "pytest", "tests", { replace = "posargs", extend = true} ]]
+
+[env.format]
+description = "install ruff in a virtual environment and invoke it on the current folder"
+deps = ["ruff>=0.9"]
+skip_install = true
+commands = [["ruff", { replace = "posargs", default = ["."], extend = true} ]]
+
+[env.type]
+description = "run type checks"
+deps = ["mypy"]
+commands = [["mypy", "src{/}tox"], ["mypy", "tests"]]

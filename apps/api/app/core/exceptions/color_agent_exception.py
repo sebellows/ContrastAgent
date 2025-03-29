@@ -1,0 +1,2 @@
+class ColorAgentException(Exception):
+    pass
