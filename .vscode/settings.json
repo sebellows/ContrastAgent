@@ -4,5 +4,6 @@
       "mode": "auto"
     }
   ],
-  "python.poetryPath": ".local/bin/poetry"
+  "python.poetryPath": ".local/bin/poetry",
+  "python.analysis.typeCheckingMode": "standard"
 }

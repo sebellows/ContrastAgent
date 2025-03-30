@@ -1,49 +1,23 @@
 import datetime
-from collections.abc import Callable, Sequence
+from collections.abc import Sequence
+from typing import Any, Generic
 
-from typing import Any, Generic, Union
-from datetime import datetime, timezone
-
-from pydantic import BaseModel, ValidationError
 from sqlalchemy import (
-    Insert,
-    Result,
-    and_,
     select,
-    update,
     delete,
-    func,
-    inspect,
-    asc,
-    desc,
-    or_,
-    column,
 )
-from sqlalchemy.exc import ArgumentError, MultipleResultsFound, NoResultFound
-from sqlalchemy.sql import Join
 from sqlalchemy.ext.asyncio import AsyncSession
-from sqlalchemy.engine.row import Row
-from sqlalchemy.orm.util import AliasedClass
-from sqlalchemy.sql.elements import BinaryExpression, ColumnElement
-from sqlalchemy.sql.selectable import Select
-from sqlalchemy.dialects import postgresql
 
 from fastapi.encoders import jsonable_encoder
 from fastapi_pagination import Page
 from fastapi_pagination.ext.sqlalchemy import paginate
 
-from app.models.base import Base
-from app.utils import Filter
+from apps.api.app.core.utils.api_filter import Filter
 
 from .types import (
     ModelType,
-    SelectSchemaType,
     CreateSchemaType,
     UpdateSchemaType,
-    UpdateSchemaInternalType,
-    DeleteSchemaType,
-    GetMultiResponseDict,
-    GetMultiResponseModel
 )
 
 
@@ -60,7 +34,7 @@ class CRUDAdaptor(Generic[ModelType, CreateSchemaType, UpdateSchemaType]):
     def __init__(self, model: type[ModelType]):
         self.model = model
 
-    def _get(self, query_filter: Filter = None):
+    def _get(self, query_filter: Filter | None = None):
         sel = select(self.model)
         if query_filter:
             sel = query_filter.filter(sel)
@@ -89,7 +63,7 @@ class CRUDAdaptor(Generic[ModelType, CreateSchemaType, UpdateSchemaType]):
     async def get_multi(
         self,
         db: AsyncSession,
-        query_filter: Filter = None,
+        query_filter: Filter | None = None,
         skip: int = 0,
         limit: int = 100,
     ) -> Sequence[ModelType]:
@@ -98,12 +72,12 @@ class CRUDAdaptor(Generic[ModelType, CreateSchemaType, UpdateSchemaType]):
         ).all()
 
     async def get_all(
-        self, db: AsyncSession, query_filter: Filter = None
+        self, db: AsyncSession, query_filter: Filter | None = None
     ) -> Sequence[ModelType]:
         return (await db.scalars(self._get(query_filter))).all()
 
     async def get_all_deleted(
-        self, db: AsyncSession, query_filter: Filter = None
+        self, db: AsyncSession, query_filter: Filter | None = None
     ) -> Sequence[ModelType] | None:
         query = select(self.model)
         if query_filter:

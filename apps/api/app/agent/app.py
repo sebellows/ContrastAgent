@@ -3,13 +3,21 @@ import logging
 import os
 from typing import TYPE_CHECKING
 
-#packages
-from injector import Injector, Module as ServiceProvider, Scope, ScopeDecorator, inject, singleton
+# packages
+from injector import (
+    Injector,
+    Module as ServiceProvider,
+    Scope,
+    ScopeDecorator,
+    inject,
+    singleton,
+)
 from injector import T
 
 # local
 from .common_service_provider import CommonServiceProvider
-from .vendors import army_painter, games_workshop
+from .vendors.army_painter import ArmyPainterProvider
+from .vendors.games_workshop import GamesWorkshopProvider
 
 
 if TYPE_CHECKING:
@@ -17,8 +25,9 @@ if TYPE_CHECKING:
     from .providers import IAppConfig, IAppState, FS
 
 
-logger = logging.getLogger('injector')
+logger = logging.getLogger("injector")
 logger.setLevel(level=logging.ERROR)
+
 
 def get_env_tags(tag_list: list[str]) -> dict:
     """Create dictionary of available env tags."""
@@ -33,22 +42,19 @@ def get_env_tags(tag_list: list[str]) -> dict:
 
     return tags
 
+
 @singleton
 @inject
 class App:
     _injector: Injector
-    
+
     """Core Providers"""
     _config: IAppConfig
     _state: IAppState
     _fs: FS
 
     def __init__(
-        self,
-        config: IAppConfig,
-        state: IAppState,
-        fs: FS,
-        injector: Injector
+        self, config: IAppConfig, state: IAppState, fs: FS, injector: Injector
     ):
         super().__init__()
         self._config = config
@@ -57,10 +63,10 @@ class App:
         self._injector = injector
 
     @classmethod
-    def get_instance(cls, providers: list[ServiceProvider]) -> 'App':
+    def get_instance(cls, providers: list[ServiceProvider]) -> "App":
         injector = Injector(providers)
         return injector.get(cls)
-        
+
     @property
     def injector(self):
         return self._injector
@@ -77,13 +83,21 @@ class App:
     def state(self):
         return self._state
 
-    def get(self, interface: type[T], scope: ScopeDecorator | type[Scope] | None = None) -> T:
+    def get(
+        self, interface: type[T], scope: ScopeDecorator | type[Scope] | None = None
+    ) -> T:
         return self.injector.get(interface, scope)
 
-    def get_vendor(self, vendor: Vendor):
+    def get_vendor(self, vendor: Vendor) -> "Vendor":
         self.state.vendor = vendor
-        return self.injector.get(vendor)
+        return self.injector.get(type(vendor))
 
 
-def create_app():
-    return App.get_instance([CommonServiceProvider, army_painter.ArmyPainterProvider, games_workshop.GamesWorkshopProvider])
+def create_agent():
+    return App.get_instance(
+        [
+            CommonServiceProvider(),
+            ArmyPainterProvider(),
+            GamesWorkshopProvider(),
+        ]
+    )

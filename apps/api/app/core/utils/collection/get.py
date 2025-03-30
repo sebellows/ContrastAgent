@@ -1,15 +1,22 @@
 from collections.abc import Hashable
-from typing import Any
+from typing import Any, overload
 
-from .assertions import is_namedtuple, is_numeric, is_numeric_str
+from .assertions import is_namedtuple, is_numeric
 from .path import to_paths
 
-from .internal import UNDEFINED
+from .internal import UNSET, PathT
 
-def get_[T: (dict, list)](
-    obj: T,
-    path: Hashable | list[Hashable],
-    default=UNDEFINED,
+
+@overload
+def get_[T, T2](obj: list[T], path: int, default: T2) -> T | T2: ...
+@overload
+def get_[T](obj: list[T], path: int, default: None = None) -> T | None: ...
+@overload
+def get_(obj: Any, path: PathT, default: Any = None) -> Any: ...
+def get_(
+    obj: Any,
+    path: PathT,
+    default: Any = None,
 ):
     """
     Get a nested value from an object based on the provided path.
@@ -35,9 +42,9 @@ def get_[T: (dict, list)](
     """
     value = obj
 
-    # Create sentinel object from either UNDEFINED, if default not set, or a dummy object,
+    # Create sentinel object from either UNSET, if default not set, or a dummy object,
     # which will help determine if should exit early.
-    sentinel = default if default is UNDEFINED else object()
+    sentinel = default if default is UNSET else object()
 
     paths = to_paths(path)
 
@@ -55,14 +62,14 @@ def get_[T: (dict, list)](
 def get_entry[T: (dict, list)](
     obj: T,
     path: Hashable | list[Hashable] | None = None,
-    default=UNDEFINED,
+    default=UNSET,
 ):
     value = obj
     entry: tuple[str, Any] | None = None
 
-    # Create sentinel object from either UNDEFINED, if default not set, or a dummy object,
+    # Create sentinel object from either UNSET, if default not set, or a dummy object,
     # which will help determine if should exit early.
-    sentinel = default if default is UNDEFINED else object()
+    sentinel = default if default is UNSET else object()
 
     paths = to_paths(path)
 
@@ -78,33 +85,37 @@ def get_entry[T: (dict, list)](
     return entry
 
 
-def _get_value[T: object](obj: T, key: Hashable, default=UNDEFINED):
+def _get_value(obj: Any, key: str, default=UNSET):
     if isinstance(obj, dict):
         value = _get_from_dict(obj, key, default=default)
     elif is_namedtuple(obj):
         # Only allow `getattr` for namedtuple to avoid returning class
         # methods and/or attributes.
-        value = getattr(obj, key, default)
+        value = getattr(obj, key) if hasattr(obj, key) else UNSET
     else:
         value = _get_from_item(obj, key, default=default)
 
-    if value is UNDEFINED:
+    if value is UNSET:
         raise KeyError(f'Object "{repr(obj)}" does not have key "{key}"')
 
     return value
 
-def _get_from_dict[T: dict](obj: T, key: Hashable, default = UNDEFINED):
-    if (value := obj.get(key, UNDEFINED)) is UNDEFINED:
-        return obj.get(int(key), default) if is_numeric_str(key) else default
+
+def _get_from_dict(obj: dict, key: int | str, default=UNSET):
+    if (value := obj.get(key, UNSET)) is UNSET:
+        value = default
+        if not isinstance(key, int):
+            value = obj.get(int(key), default)
     return value
 
-def _get_from_item[T: (list, tuple)](obj: T, key: Hashable, default=UNDEFINED):
+
+def _get_from_item[T: (list, tuple)](obj: T, key: int | str, default=UNSET):
     if is_numeric(key) and (i := _get_index_key(key)) < len(obj):
         return obj[i]
     return default
 
-def _get_index_key(key: Hashable) -> int:
-    if is_numeric:
-        return int(key) if is_numeric_str(key) else key
-    raise ValueError(f"{key} is not a numeric type")
 
+def _get_index_key(key: int | str) -> int:
+    if is_numeric:
+        return key if isinstance(key, int) else int(key)
+    raise ValueError(f"{key} is not a numeric type")

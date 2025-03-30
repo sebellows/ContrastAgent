@@ -4,8 +4,9 @@ from contextlib import asynccontextmanager
 import uvicorn
 from anyio import to_thread
 from arq.connections import RedisSettings
-import fastapi
-from fastapi import APIRouter, Depends, FastAPI
+
+# import fastapi
+from fastapi import APIRouter, FastAPI
 from fastapi_async_sqlalchemy import SQLAlchemyMiddleware
 from fastapi_pagination import add_pagination
 
@@ -51,7 +52,11 @@ async def lifespan(app: FastAPI) -> AsyncGenerator:
         await create_tables()
 
     if isinstance(settings, RedisQueueSettings):
-        await create_redis_queue_pool(RedisSettings(host=settings.REDIS_QUEUE_HOST, port=settings.REDIS_QUEUE_PORT))
+        await create_redis_queue_pool(
+            RedisSettings(
+                host=settings.REDIS_QUEUE_HOST, port=settings.REDIS_QUEUE_PORT
+            )
+        )
 
     yield
 

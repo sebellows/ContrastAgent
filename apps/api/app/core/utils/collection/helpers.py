@@ -4,12 +4,12 @@ from functools import partial
 from typing import Any
 
 from .get import get_
-from .internal import callit, getargcount
+from .internal import PathT, callit, getargcount
 from .path import to_paths
 from .transforms import to_iterator
 
 
-def properties(*paths: list[str]) -> Callable[[object], list[Any]]:
+def properties(*paths: PathT) -> Callable[[object], list[Any]]:
     """
     Iterate over an object and returns a list of values based on the passed
     variadic number of paths.
@@ -59,12 +59,13 @@ def get__entry(obj: dict[str, Any], path: str) -> dict[str, Any]:
     value = get_(obj, path)
 
     # Extract the last part of the path to use as the key
-    key = path.split('.')[-1] if '.' in path else path
+    key = path.split(".")[-1] if "." in path else path
 
     # Return a dictionary with the key and its corresponding value
     return {key: value}
 
-def entries(*paths: list[str]) -> Callable[[object], dict[str, Any]]:
+
+def entries(*paths: list[str]) -> Callable[[object], dict[bytes, bytes]]:
     """
     Iterate over an object and returns a dictionary composed of the entries found.
 
@@ -85,8 +86,7 @@ def entries(*paths: list[str]) -> Callable[[object], dict[str, Any]]:
     """
     getters = [partial(get__entry, path=path) for path in to_paths(paths)]
 
-    return lambda obj: dict([getter(obj) for getter in getters])
-
+    return lambda obj: dict([getter(obj) for getter in getters])  # type: ignore
 
 
 def clone(value, is_deep=False, customizer=None, key=None, _cloned=False):

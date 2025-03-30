@@ -1,7 +1,8 @@
+from .internal import PathT
 from .helpers import entries, properties
 
 
-def pick[T: dict](obj: T, paths: list[str]):
+def pick(obj: dict, paths: list[str]):
     """
     Creates a dictionary composed only of the keys specified and their
     corresponding values.
@@ -23,7 +24,7 @@ def pick[T: dict](obj: T, paths: list[str]):
     return entries(paths)(obj)
 
 
-def pick_values[T: dict](obj: T, *paths: list[str]):
+def pick_values(obj: dict, *paths: PathT):
     """
     Retrieve a list of values from a dict.
 
@@ -40,5 +41,4 @@ def pick_values[T: dict](obj: T, *paths: list[str]):
     >>> pick_values({"a": 1, "b": 2, "c": {"d": {"e": 3}}}, "a", "b", "c.d.e")
     [1, 2, 3]
     """
-    return properties(paths)(obj)
-
+    return properties(*paths)(obj)

@@ -9,14 +9,15 @@ from .variadic import variadic
 # test whether a path string part is a list index.
 INDEX_KEY_RE = re.compile(r"^\[-?\d+\]$")
 
+
 def parse_key(key: int | str) -> int | str:
     if isinstance(key, int):
         return key
     return int(key[1:-1]) if INDEX_KEY_RE.match(key) else key
 
 
-def parse_keys(keys: list[str], sep='.') -> list[str]:
-    def _parse(key: list[str]) -> list[str]:
+def parse_keys(keys: list[str], sep=".") -> list[str]:
+    def _parse(key: str):
         if sep in key:
             return [parse_key(k) for k in key.split(sep)]
         return parse_key(key)
@@ -25,32 +26,38 @@ def parse_keys(keys: list[str], sep='.') -> list[str]:
     return variadic(*results)
 
 
-def to_path(*paths, sep='.', customizer=default_customizer):
+def to_path(*paths, sep=".", customizer=default_customizer):
     return sep.join([customizer(path) for path in variadic(paths)])
 
-    
-def to_paths(*args: list[str | list[str]], sep='.') -> list[str]:
+
+def to_paths(*args, sep=".") -> list[str]:
     keys = [arg for arg in variadic(*args) if arg is not None]
     return parse_keys(keys, sep=sep)
 
 
 def unslash(path: str) -> str:
-    return path[1:] if path.startswith('/') else path[:-1] if path.endswith('/') and not path.endswith('//') else path
+    return (
+        path[1:]
+        if path.startswith("/")
+        else path[:-1]
+        if path.endswith("/") and not path.endswith("//")
+        else path
+    )
 
 
 def to_dirpath(*paths: list[str]) -> str:
     if len(paths) == 0:
-        return ''
-    return to_path(*paths, sep='/', customizer=unslash)
+        return ""
+    return to_path(*paths, sep="/", customizer=unslash)
 
 
 def to_url(*paths: list[str]) -> str:
-    path = to_path(*paths, sep='/', customizer=unslash)
-    return path if path.startswith('http') else f"https://{path}"
+    path = to_path(*paths, sep="/", customizer=unslash)
+    return path if path.startswith("http") else f"https://{path}"
 
 
 def isurl(value: str) -> bool:
-    return isinstance(value, str) and value.startswith('http')
+    return isinstance(value, str) and value.startswith("http")
 
 
 def sanitize_path(path: str) -> str:

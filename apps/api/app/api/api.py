@@ -4,7 +4,7 @@ from .v1 import products
 
 router = APIRouter()
 router.include_router(
-    products.router,
+    products.models,
     prefix="/products",
     tags=["products"],
     responses={404: {"description": "Not found"}},

@@ -11,7 +11,11 @@ from types import BuiltinFunctionType
 from typing import Any, ParamSpec, TypeVar
 
 #: Dictionary of builtins with keys as the builtin function and values as the string name.
-BUILTINS = {value: key for key, value in builtins.__dict__.items() if isinstance(value, Hashable)}
+BUILTINS = {
+    value: key
+    for key, value in builtins.__dict__.items()
+    if isinstance(value, Hashable)
+}
 
 #: Inspect signature parameter kinds that correspond to positional arguments.
 POSITIONAL_PARAMETERS = (
@@ -19,6 +23,19 @@ POSITIONAL_PARAMETERS = (
     inspect.Parameter.POSITIONAL_ONLY,
     inspect.Parameter.POSITIONAL_OR_KEYWORD,
 )
+
+
+"""
+Singleton object that differentiates between an explicit ``None`` value and an unset value.
+Set as a class in order to provide its own type.
+"""
+
+
+class UNSET: ...
+
+
+type PathT = str | list[str] | tuple[str, ...] | int
+
 
 def is_builtin(value: Any) -> bool:
     """
@@ -48,17 +65,18 @@ def is_builtin(value: Any) -> bool:
 
 
 P = ParamSpec("P")
-OutT = TypeVar("OutputT")
+OutputT = TypeVar("OutputT")
 
-def from_decorated_argcount(func: Callable[P, OutT], maxargs: int | None = None) -> int:
+
+def from_decorated_argcount(func: Callable[P, OutputT], maxargs: int = 0) -> int:
     """Return argument count of decorated function."""
-    argcount = func._argcount if hasattr(func, "_argcount") else None
+    argcount = getattr(func, "_argcount") if hasattr(func, "_argcount") else None
     # Optimization feature where argcount of iteratee is known and properly
     # set by initiator. Can be None, as maxargs is not required.
     return maxargs if argcount is None else argcount
 
 
-def getargcount(func: Callable[P, OutT], maxargs: int | None = None) -> int | None:
+def getargcount(func: Callable[P, OutputT], maxargs: int = 0) -> int:
     """Return argument count of iteratee function."""
 
     argcount = from_decorated_argcount(func, maxargs)
@@ -71,7 +89,9 @@ def getargcount(func: Callable[P, OutT], maxargs: int | None = None) -> int | No
     # catch-all for positional args.
     params = inspect.signature(func).parameters.values()
 
-    is_positional = any(param.kind == inspect.Parameter.VAR_POSITIONAL for param in params)
+    is_positional = any(
+        param.kind == inspect.Parameter.VAR_POSITIONAL for param in params
+    )
 
     if not is_positional:
         positional_params = [p for p in params if p.kind in POSITIONAL_PARAMETERS]
@@ -79,16 +99,18 @@ def getargcount(func: Callable[P, OutT], maxargs: int | None = None) -> int | No
 
     if argcount:
         return argcount
-    
+
     # Signatures were added with these operator methods in Python 3.12.3 and 3.11.9 but their
     # instance objects are incorrectly reported as accepting varargs when they only accept a
     # single argument.
-    if isinstance(func, (operator.itemgetter, operator.attrgetter, operator.methodcaller)):
+    if isinstance(
+        func, (operator.itemgetter, operator.attrgetter, operator.methodcaller)
+    ):
         return 1
 
     argspec = inspect.getfullargspec(func)
 
-    print('argcount: ', argcount, argspec)
+    print("argcount: ", argcount, argspec)
     if argspec.varargs:
         return maxargs
 
@@ -104,6 +126,9 @@ def getargcount(func: Callable[P, OutT], maxargs: int | None = None) -> int | No
 def get_function_name():
     # get the frame object of the function
     frame = inspect.currentframe()
+    if frame is None:
+        return "unknown"
+    # Move to the caller's frame
     return frame.f_code.co_name
 
 
@@ -113,8 +138,9 @@ def callit(func: Callable[[Any], Any], *args, **kwargs):
     when calling it.
     """
     maxargs = len(args)
-    argcount = kwargs['argcount'] if 'argcount' in kwargs else getargcount(func, maxargs)
+    argcount = (
+        kwargs["argcount"] if "argcount" in kwargs else getargcount(func, maxargs)
+    )
     argstop = min([maxargs, argcount])
 
     return func(*args[:argstop])
-

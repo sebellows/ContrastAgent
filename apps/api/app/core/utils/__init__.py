@@ -15,5 +15,5 @@ __all__ = (
     "resolve_file_data",
     "write_to_file",
     "printz",
-    "stylize_message"
+    "stylize_message",
 )

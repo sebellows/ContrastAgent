@@ -1,21 +1,25 @@
+from collections.abc import Mapping
 from dataclasses import dataclass, field
 from typing import TypedDict
 
 from app.agent.models import ProductLineModel, VendorBaseModel
 
+
 class HttpRequestModel(TypedDict):
     url: str
-    headers: dict[str, str | None]
+    headers: Mapping[str, str | None]
     method: str | None
-    query_params: dict[str, str | None]
+    query_params: Mapping[str, str | None]
     search_query_prefix: str | None
 
 
+# @dataclass
 class SelectorPathConfig(TypedDict):
     """
     If the source is JSON, then this will be a dot-syntax path that will return the desired data.
     If the source is HTML, this will be an xpath.
     """
+
     path: str
 
     """
@@ -33,8 +37,13 @@ class SelectorPathConfig(TypedDict):
 
 class PlatformService(TypedDict):
     name: str
-    api_keys: dict[str, str | None]
-    query_params: dict[str, str | None]
+    api_keys: (
+        Mapping[str, str] | None
+    )  # API keys for accessing the service, e.g., Algolia keys
+    query_params: (
+        Mapping[str, str] | None
+    )  # Query parameters for API requests, e.g., pagination or filters
+
 
 @dataclass
 class ProductLineConfig(ProductLineModel):
@@ -42,6 +51,7 @@ class ProductLineConfig(ProductLineModel):
     For some product lines, we only want to extract the basic product data
     and not run through the processes like color extraction.
     """
+
     variant_only: bool = False
 
     """
@@ -54,13 +64,13 @@ class ProductLineConfig(ProductLineModel):
 class VendorConfig(VendorBaseModel):
     vendor_url_template: str
 
-    supported_languages: list[str]
-    supported_regions: list[str]
-    supported_locales: list[str]
-
     platform: PlatformService
 
-    product_lines: dict[str, type[ProductLineConfig]]
+    product_lines: ProductLineConfig
+
+    supported_languages: list[str] = field(default_factory=list)
+    supported_regions: list[str] = field(default_factory=list)
+    supported_locales: list[str] = field(default_factory=list)
 
     """
     Relative path to media files.
@@ -78,20 +88,33 @@ class VendorConfig(VendorBaseModel):
     NOTE: This may be set individually in a product line config if settings vary
     across product lines.
     """
-    json_selectors: dict[str, SelectorPathConfig | None] = None
+    json_selectors: dict[str, SelectorPathConfig] | None = None
 
     """
     DOM selector paths for obtaining data when engaged in web scraping the
     vendor site.
     """
-    html_selectors: dict[str, SelectorPathConfig | None] = None
+    html_selectors: Mapping[str, SelectorPathConfig] | None = None
 
     """
     Query params for filtering PLP category results on the vendor's website. 
     """
-    search_selectors: dict[str, SelectorPathConfig | None] = None
+    search_selectors: Mapping[str, SelectorPathConfig] | None = None
 
     # http: list[HttpRequestModel | None] = None
 
-    regional_pdp_slug: dict[str, str | None] = None
-    regional_plp_slug: dict[str, str | None] = None
+    regional_pdp_slug: Mapping[str, str] | None = None
+    regional_plp_slug: Mapping[str, str] | None = None
+
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        # Ensure that the mappings are initialized properly
+        product_lines = kwargs.get("product_lines", {})
+        if product_lines:
+            self.product_lines = ProductLineConfig(**product_lines)
+        if not hasattr(self, "json_selectors"):
+            self.json_selectors = {}
+        if not hasattr(self, "html_selectors"):
+            self.html_selectors = {}
+        if not hasattr(self, "search_selectors"):
+            self.search_selectors = {}
